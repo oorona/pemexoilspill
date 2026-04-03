@@ -1,0 +1,67 @@
+/* ── Reset & custom properties ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-0:        #04080f;
+  --bg-1:        #080e1a;
+  --bg-2:        #0d1524;
+  --bg-card:     rgba(8, 14, 26, 0.88);
+  --bg-card-h:   rgba(13, 21, 36, 0.95);
+
+  --border:      rgba(100, 160, 255, 0.12);
+  --border-h:    rgba(100, 160, 255, 0.25);
+
+  --accent-red:   #e63946;
+  --accent-org:   #f4a261;
+  --accent-yel:   #ffd166;
+  --accent-blue:  #4895ef;
+  --accent-teal:  #4cc9f0;
+
+  --vessel-primary: #f4a261;
+  --vessel-dark:    #ffd166;
+  --vessel-support: #4895ef;
+  --vessel-other:   #64b5f6;
+
+  --slick-fill:   rgba(120, 40, 0, 0.55);
+  --slick-stroke: rgba(210, 80, 10, 0.9);
+
+  --text-0:  #f0f4ff;
+  --text-1:  #b8c8e0;
+  --text-2:  #7090b0;
+  --text-3:  #455470;
+
+  --radius:    8px;
+  --radius-lg: 14px;
+  --shadow:    0 4px 24px rgba(0,0,0,0.55);
+
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  font-size: 14px;
+  color-scheme: dark;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--bg-0);
+  color: var(--text-0);
+}
+
+a {
+  color: var(--accent-teal);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-1); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--border-h); }
+
+/* Glassmorphism utility */
+.glass {
+  background: var(--bg-card);
+  backdrop-filter: blur(14px) saturate(1.4);
+  -webkit-backdrop-filter: blur(14px) saturate(1.4);
+  border: 1px solid var(--border);
+}

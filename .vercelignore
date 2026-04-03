@@ -1,0 +1,9 @@
+dev/
+docs/
+specs/
+secrets/
+*.md
+!README.md
+Dockerfile
+.dockerignore
+.gitignore

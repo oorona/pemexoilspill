@@ -1,0 +1,2276 @@
+{
+  "total": 324,
+  "startDate": "2026-02-01",
+  "endDate": "2026-03-31",
+  "processedAt": "2026-04-02T19:00:53.249Z",
+  "entries": [
+    {
+      "ssvid": "39126",
+      "name": null,
+      "flag": null,
+      "vesselId": "c139d2873-3891-1975-642a-b8b98a8b5528",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "37019",
+      "name": null,
+      "flag": "PAN",
+      "vesselId": "449f653b6-6585-57ff-3d18-93e6df3cf3f4",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "39120",
+      "name": null,
+      "flag": null,
+      "vesselId": "a892b13d4-4f2e-7560-49e0-9cf2500aae1d",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "37020",
+      "name": null,
+      "flag": "PAN",
+      "vesselId": "254247fa2-2d7d-183e-1114-431dd42e4764",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "36692",
+      "name": null,
+      "flag": "USA",
+      "vesselId": "08460e6e0-09f3-ea71-5cef-c6e82c5741e9",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "111200000",
+      "name": null,
+      "flag": null,
+      "vesselId": "b13c483fb-bcaa-2282-7fa2-8d5ee2730d8c",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "41578",
+      "name": null,
+      "flag": null,
+      "vesselId": "1945080ac-c3da-a5cc-83aa-d8892470dc32",
+      "type": "fishing"
+    },
+    {
+      "ssvid": "36668",
+      "name": null,
+      "flag": "USA",
+      "vesselId": "88b05d997-7c37-458c-46fe-38e79740d78f",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "36658",
+      "name": null,
+      "flag": "USA",
+      "vesselId": "9b99e4e18-83d4-472d-e569-bea584da8584",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "345036041",
+      "name": null,
+      "flag": "MEX",
+      "vesselId": "bb2638249-9f29-e0d4-8d71-488eff61a7ff",
+      "type": "other"
+    },
+    {
+      "ssvid": "696969690",
+      "name": null,
+      "flag": null,
+      "vesselId": "43a969090-0470-62d4-206a-ca89c57ffae5",
+      "type": "other"
+    },
+    {
+      "ssvid": "5047",
+      "name": null,
+      "flag": null,
+      "vesselId": "6c0f458df-fc8f-caad-05e4-03d8e7e125fd",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "41591",
+      "name": null,
+      "flag": null,
+      "vesselId": "5d1842e31-12a2-12e4-dfa9-07819062f347",
+      "type": "other"
+    },
+    {
+      "ssvid": "52282",
+      "name": null,
+      "flag": null,
+      "vesselId": "9f820080b-b8d0-1e38-e41d-909a595d5567",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "21142",
+      "name": null,
+      "flag": "DEU",
+      "vesselId": "8604fb077-7e38-04c8-6d5c-02347a150422",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "39104",
+      "name": null,
+      "flag": null,
+      "vesselId": "51a8a217c-c34f-53fc-4eef-58c54fa6c04e",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "111232048",
+      "name": null,
+      "flag": null,
+      "vesselId": "92d4cc155-583f-c456-f9bf-617debb2d6a0",
+      "type": "other"
+    },
+    {
+      "ssvid": "39121",
+      "name": null,
+      "flag": null,
+      "vesselId": "800229059-97dc-ef0f-e2c2-65709cfd7799",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "21140",
+      "name": null,
+      "flag": "DEU",
+      "vesselId": "f99fe8a7c-c317-7318-54ed-79fc659019ff",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "41600",
+      "name": null,
+      "flag": "TWN",
+      "vesselId": "e0e698b85-5cf2-193f-47df-21accb100cd9",
+      "type": "other"
+    },
+    {
+      "ssvid": "41588",
+      "name": null,
+      "flag": null,
+      "vesselId": "1807688e4-4e97-0eff-b122-2bf8f2cb4645",
+      "type": "other"
+    },
+    {
+      "ssvid": "39113",
+      "name": null,
+      "flag": null,
+      "vesselId": "b32ddfd4d-d5dd-a59d-a1df-be63d131a0a6",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "538009821",
+      "name": "ADVANTAGE ANGEL",
+      "flag": "MHL",
+      "vesselId": "5b3abd7af-f610-2cdf-4df0-7a33bf1fbcdd",
+      "type": "other"
+    },
+    {
+      "ssvid": "241444000",
+      "name": "AEGEAN MARATHON",
+      "flag": "GRC",
+      "vesselId": "c3e820028-8eef-d324-962b-87eefe55b4ff",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070365",
+      "name": "AGUILA IMPERIAL",
+      "flag": "MEX",
+      "vesselId": "6dd8b3e02-2e0b-36d6-26ce-cb053fc8fe37",
+      "type": "other"
+    },
+    {
+      "ssvid": "538008977",
+      "name": "AKMI",
+      "flag": "MHL",
+      "vesselId": "17b02dd66-60d6-6737-f1f4-422c9cb39af5",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "371669000",
+      "name": "ALBERT II",
+      "flag": "PAN",
+      "vesselId": "8f2214a76-6501-5851-a194-ed38b1756297",
+      "type": "other"
+    },
+    {
+      "ssvid": "371557000",
+      "name": "ALBERT III",
+      "flag": "PAN",
+      "vesselId": "f777052f7-7f7e-d2d2-8c27-8b2f72766f2c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050083",
+      "name": "ALICE G MC CALL",
+      "flag": "MEX",
+      "vesselId": "3e939d8a0-04fd-082a-dc67-8f62c0b4c0c5",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010048",
+      "name": "ALIOTH",
+      "flag": "MEX",
+      "vesselId": "b90d143a2-23e1-a30d-c27e-f78f05db1cbe",
+      "type": "other"
+    },
+    {
+      "ssvid": "538003962",
+      "name": "ALPINE LIGHT",
+      "flag": "MHL",
+      "vesselId": "4ba2d3cd0-065b-514e-f90e-4700e40fab44",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010074",
+      "name": "ALTAMIRA",
+      "flag": "MEX",
+      "vesselId": "3150e53a6-6189-e59b-cf3c-0c45ad9ef84e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010075",
+      "name": "ALVARADO",
+      "flag": "MEX",
+      "vesselId": "cff4387e1-1eeb-da4b-33ab-1e321089e994",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070350",
+      "name": "ANDROMEDA",
+      "flag": "MEX",
+      "vesselId": "7d2e6ddc8-8fd3-18e1-3235-a8f2cbf8d211",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070326",
+      "name": "ANNY MV",
+      "flag": "MEX",
+      "vesselId": "3b4339959-9d45-78c1-2ded-3d85b4727255",
+      "type": "other"
+    },
+    {
+      "ssvid": "636013521",
+      "name": "APL MINNESOTA",
+      "flag": "LBR",
+      "vesselId": "9171f6011-1bc5-9baa-5e4d-2bbd587ae2d7",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636021195",
+      "name": "AQUAHONOR",
+      "flag": "LBR",
+      "vesselId": "0d81a799f-fd5f-67ab-0a10-d96068cc8523",
+      "type": "other"
+    },
+    {
+      "ssvid": "636018640",
+      "name": "AQUILA L",
+      "flag": "LBR",
+      "vesselId": "724e0c2fb-bc6b-5c3b-89f7-0b44b374a2e1",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070403",
+      "name": "ARBOL GRANDE",
+      "flag": "MEX",
+      "vesselId": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+      "type": "other"
+    },
+    {
+      "ssvid": "338492000",
+      "name": "ARC RESOLVE",
+      "flag": "USA",
+      "vesselId": "51ad6111f-fe79-1b66-2317-37667cd2dc5a",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345050074",
+      "name": "ARCANGEL SAN RAFAEL",
+      "flag": "MEX",
+      "vesselId": "cd29d9f94-4ec4-fefc-7312-0a77f90d81f3",
+      "type": "other"
+    },
+    {
+      "ssvid": "538004967",
+      "name": "ARDMORE SEAVALIANT",
+      "flag": "MHL",
+      "vesselId": "6ab889c92-2f4e-7d7f-ffc2-ef3057ec3002",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070420",
+      "name": "ARROW 1",
+      "flag": "MEX",
+      "vesselId": "c1ca988d1-1b8e-c02e-0561-f35a6c016941",
+      "type": "other"
+    },
+    {
+      "ssvid": "312523000",
+      "name": "ASIS V",
+      "flag": "BLZ",
+      "vesselId": "9708c7486-60a9-48f9-d3e9-6ac3c8b73cf1",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "563240000",
+      "name": "ATLANTIS",
+      "flag": "SGP",
+      "vesselId": "d6b77c9d3-3a18-0a82-87b9-984d47e91c15",
+      "type": "other"
+    },
+    {
+      "ssvid": "538009680",
+      "name": "AVANCE CAPELLA",
+      "flag": "MHL",
+      "vesselId": "ba66dd583-3a6f-6c6d-0ad3-696b5ae12a13",
+      "type": "other"
+    },
+    {
+      "ssvid": "345030078",
+      "name": "AVE FENIX",
+      "flag": "MEX",
+      "vesselId": "88cc03017-7b2a-a103-3653-a9136d47275f",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070223",
+      "name": "AZTECA",
+      "flag": "MEX",
+      "vesselId": "7e16af48d-d701-e159-d122-c2cf6594b596",
+      "type": "other"
+    },
+    {
+      "ssvid": "345200011",
+      "name": "B\\T BICENTENARIO",
+      "flag": "MEX",
+      "vesselId": "4d89f2b01-1558-6a13-c5d4-d990bda1dcf6",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070331",
+      "name": "BACO",
+      "flag": "MEX",
+      "vesselId": "6b341a6b4-46f6-4598-2d0e-db1738696303",
+      "type": "other"
+    },
+    {
+      "ssvid": "373662000",
+      "name": "BALSA 87",
+      "flag": "PAN",
+      "vesselId": "65e384e0a-a670-61dc-b737-9098830b7eed",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "371895000",
+      "name": "BALSA 91",
+      "flag": "PAN",
+      "vesselId": "16dab9cd4-4bc2-6b49-2a8d-8fc3e2922c4f",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "353054000",
+      "name": "BALSA 94",
+      "flag": "PAN",
+      "vesselId": "9831cff63-3c26-b65c-6d9e-5019d1043911",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050030",
+      "name": "BALTIC",
+      "flag": "MEX",
+      "vesselId": "048a7e3c6-68a9-0823-ef44-5b6b52e8f289",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050064",
+      "name": "BELUGA 2",
+      "flag": "MEX",
+      "vesselId": "82b0c1a08-8d22-e51b-1976-326e3c855f25",
+      "type": "other"
+    },
+    {
+      "ssvid": "374922000",
+      "name": "BERGE HALLASAN",
+      "flag": "PAN",
+      "vesselId": "74b34fd89-94be-3267-bc96-e2756379de64",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636024455",
+      "name": "BERKELEY SQUARE",
+      "flag": "LBR",
+      "vesselId": "ac4d700c0-0759-2f1b-55f5-6741b4fd5540",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070229",
+      "name": "BERNIE MCCALL",
+      "flag": "MEX",
+      "vesselId": "cae838a60-0e6f-5a33-477d-1534a800c5b8",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070007",
+      "name": "BLACK ARROW",
+      "flag": "MEX",
+      "vesselId": "2e4e6d301-1b9f-2ecc-a6f8-b76c893e2ac6",
+      "type": "other"
+    },
+    {
+      "ssvid": "374027000",
+      "name": "BLUE EAGLE",
+      "flag": "PAN",
+      "vesselId": "2ff61f5df-fae1-ad15-7655-5edc93b38045",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070253",
+      "name": "BLUE STINGRAY",
+      "flag": "MEX",
+      "vesselId": "871d4818e-e208-39e6-e03c-4686dfb04770",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005240",
+      "name": "BOUGAINVILLE",
+      "flag": "MHL",
+      "vesselId": "c4f9fae70-0d25-36db-b2e2-d2033d3e5a9d",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010071",
+      "name": "BOURBON ALIENOR",
+      "flag": "MEX",
+      "vesselId": "e56bce56d-d2c9-bb86-5aca-110e7086575c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010037",
+      "name": "BOURBON ARTEMIS",
+      "flag": "MEX",
+      "vesselId": "20aa56e7b-bdf2-0a7e-dcbe-6e1fd4c5b35f",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010067",
+      "name": "BOURBON-ARTABAZE",
+      "flag": "MEX",
+      "vesselId": "a882dc571-1130-339c-7aa1-c7f3f5897490",
+      "type": "other"
+    },
+    {
+      "ssvid": "357961000",
+      "name": "BRAVERY ACE",
+      "flag": "PAN",
+      "vesselId": "e77fe4111-1bf8-cb45-75eb-6fc9e8c09947",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "563093600",
+      "name": "BULLDOG",
+      "flag": "SGP",
+      "vesselId": "a965de208-8268-0f7f-4205-47874df8f6f0",
+      "type": "other"
+    },
+    {
+      "ssvid": "538006837",
+      "name": "BW BRAGE",
+      "flag": "MHL",
+      "vesselId": "2b2a43a60-0d78-7851-317e-e7598c7221f1",
+      "type": "other"
+    },
+    {
+      "ssvid": "355321000",
+      "name": "CABO FROWARD",
+      "flag": "PAN",
+      "vesselId": "15bd78c76-6230-9c13-a73d-32e57fba1d19",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010060",
+      "name": "CABO ROJO",
+      "flag": "MEX",
+      "vesselId": "bbe2c9fc8-8f9e-ba15-cff5-d470f662fe9e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010056",
+      "name": "CANOPUS",
+      "flag": "MEX",
+      "vesselId": "f50729a2f-f7ee-9305-82d5-63bf6211df1e",
+      "type": "other"
+    },
+    {
+      "ssvid": "241593000",
+      "name": "CAP QUEBEC",
+      "flag": "GRC",
+      "vesselId": "09555612e-e333-cb4a-87c4-b3dd197df68f",
+      "type": "other"
+    },
+    {
+      "ssvid": "538011264",
+      "name": "CAPE TAINARON",
+      "flag": "MHL",
+      "vesselId": "b9101c741-1b10-6363-8dd7-43a0e454c560",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "352644000",
+      "name": "CAPT EUGENE",
+      "flag": "PAN",
+      "vesselId": "30fd674de-eed5-d083-4ad2-1a256791e1e9",
+      "type": "other"
+    },
+    {
+      "ssvid": "636016185",
+      "name": "CARDIFF",
+      "flag": "LBR",
+      "vesselId": "a06e1b588-8e0c-8d43-3b6c-31207f9ce4db",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070382",
+      "name": "CARMEN III",
+      "flag": "MEX",
+      "vesselId": "4d8b120ce-e4e5-f567-0c0a-321c720bb49d",
+      "type": "other"
+    },
+    {
+      "ssvid": "255916113",
+      "name": "CARNELIAN CONFIDENCE",
+      "flag": "PRT",
+      "vesselId": "13c8bda9d-d477-b7e7-81d6-afb2bd57d09f",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538008331",
+      "name": "CE-BERMUDA",
+      "flag": "MHL",
+      "vesselId": "3a7e314b5-528e-15c1-c404-83dc77ca5375",
+      "type": "other"
+    },
+    {
+      "ssvid": "345200100",
+      "name": "CENTLA",
+      "flag": "MEX",
+      "vesselId": "18b61a6ca-a600-1d95-4e1a-4becd5a9f8b6",
+      "type": "other"
+    },
+    {
+      "ssvid": "371210000",
+      "name": "CENTURY BRIGHT",
+      "flag": "PAN",
+      "vesselId": "46b308e5e-e804-3499-5cdd-00d068baf01b",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070398",
+      "name": "CERRO DE LA PEZ",
+      "flag": "MEX",
+      "vesselId": "2b93933a7-7125-0552-fecb-b7f52c1c19f3",
+      "type": "other"
+    },
+    {
+      "ssvid": "339411000",
+      "name": "CHANTUL",
+      "flag": "JAM",
+      "vesselId": "e1378b7db-bc06-48f0-bfc6-17ee127e8f50",
+      "type": "passenger"
+    },
+    {
+      "ssvid": "305617000",
+      "name": "CHEMTRANS NOVA",
+      "flag": "ATG",
+      "vesselId": "d605d10ba-a104-1ca8-0843-546e9542cf0d",
+      "type": "other"
+    },
+    {
+      "ssvid": "538009078",
+      "name": "CHEROKEE",
+      "flag": "MHL",
+      "vesselId": "528bee502-2be0-8c2a-cb44-4bcba64629b8",
+      "type": "other"
+    },
+    {
+      "ssvid": "538007843",
+      "name": "CHIOS STAR",
+      "flag": "MHL",
+      "vesselId": "1f0e7fe0b-bc4b-8099-6f4a-c6208bb4a6a9",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070359",
+      "name": "CHIRON",
+      "flag": "MEX",
+      "vesselId": "00bac1911-1ccc-59a6-9a6b-48a6c94a4cd6",
+      "type": "other"
+    },
+    {
+      "ssvid": "636023227",
+      "name": "CHLOE D",
+      "flag": "LBR",
+      "vesselId": "613223fd0-0549-6e69-4096-088903f3f3a9",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "563471000",
+      "name": "CLEMENS SCHULTE",
+      "flag": "SGP",
+      "vesselId": "59a24da56-61e3-46a4-c7df-19faea9c860c",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "215185000",
+      "name": "CMA CGM LAMARTINE",
+      "flag": "MLT",
+      "vesselId": "62a9b383b-ba13-5716-8cd9-67e138948fa2",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636093336",
+      "name": "CMC ANTILLANCA",
+      "flag": "LBR",
+      "vesselId": "31429ffe5-507f-4725-40c9-22359ee1da8e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070380",
+      "name": "COATZACOALCOS-PAE",
+      "flag": "MEX",
+      "vesselId": "2c7667d4a-a063-a4d1-d9e3-a012ccebf141",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070364",
+      "name": "COBOS",
+      "flag": "MEX",
+      "vesselId": "b1983dd53-3a82-4bb4-84d0-99c2bcbf11f0",
+      "type": "other"
+    },
+    {
+      "ssvid": "377901164",
+      "name": "COMMODORE",
+      "flag": "VCT",
+      "vesselId": "86e6d2b3c-c640-8083-1d2e-722fea7a0288",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050089",
+      "name": "CONCORDIA",
+      "flag": "MEX",
+      "vesselId": "2fe74f084-4cbf-2f3b-99fa-ccefb786385e",
+      "type": "other"
+    },
+    {
+      "ssvid": "210514000",
+      "name": "CONTSHIP ART",
+      "flag": "CYP",
+      "vesselId": "e9e62dbad-da52-ede6-9dae-22f92005e0bf",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "212852000",
+      "name": "CONTSHIP REX II",
+      "flag": "CYP",
+      "vesselId": "2824c6953-391a-f279-0dc2-05cd22c84490",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070204",
+      "name": "COSMOS 2",
+      "flag": "MEX",
+      "vesselId": "67ff57965-5514-55f9-33fa-58f5dfc755db",
+      "type": "other"
+    },
+    {
+      "ssvid": "311016600",
+      "name": "CS CAPRICE",
+      "flag": "BHS",
+      "vesselId": "e85a7ae5d-d1ce-5cec-f6a6-1377f0c8c511",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538010420",
+      "name": "DAT VENUS",
+      "flag": "MHL",
+      "vesselId": "9f23d5775-584d-b69c-633f-f527a2c3adae",
+      "type": "other"
+    },
+    {
+      "ssvid": "256935000",
+      "name": "DEGAS",
+      "flag": "MLT",
+      "vesselId": "f4d1842e9-9b1f-e673-abec-f8a4124d8080",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070352",
+      "name": "DELTA",
+      "flag": "MEX",
+      "vesselId": "15b0d538c-c55e-ab03-7193-387282c050a5",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070121",
+      "name": "DEVILLE TIDE",
+      "flag": "MEX",
+      "vesselId": "e2d3b48f6-684e-ad5d-9f29-d58c9bd434e6",
+      "type": "other"
+    },
+    {
+      "ssvid": "311000576",
+      "name": "DIADEMA",
+      "flag": "BHS",
+      "vesselId": "a8704f4c6-6ff3-6ec7-6446-ebd31a71ed22",
+      "type": "other"
+    },
+    {
+      "ssvid": "477886800",
+      "name": "DISKO ISLAND",
+      "flag": "HKG",
+      "vesselId": "7cc5c689d-d791-e3e9-7ce3-a5f47cea467d",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070269",
+      "name": "DOMINATOR",
+      "flag": "MEX",
+      "vesselId": "60ab5fb8f-fa34-0e85-6d6d-72fbd7349f83",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070431",
+      "name": "DON ADRIAN",
+      "flag": "MEX",
+      "vesselId": "7fde04e7d-d03d-aef2-21dc-37b4f9710ad9",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070328",
+      "name": "DON ALEJANDRO",
+      "flag": "MEX",
+      "vesselId": "51bda5763-3306-4014-c9e7-c39da8540b1e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070178",
+      "name": "DON BENJAMIN",
+      "flag": "MEX",
+      "vesselId": "cf06a2fda-acd5-f863-a022-3d066aab4850",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070179",
+      "name": "DON DANIEL T",
+      "flag": "MEX",
+      "vesselId": "2bb4c8201-176e-de47-9083-e4505af6a999",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070128",
+      "name": "DON ENRIQUE II",
+      "flag": "MEX",
+      "vesselId": "ffdd92097-7fda-4405-ee02-eeadbd8ca677",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070125",
+      "name": "DON FAUSTO",
+      "flag": "MEX",
+      "vesselId": "1e314604a-abcb-bbb2-e208-a207fa44d06e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070306",
+      "name": "DON IGNACIO",
+      "flag": "MEX",
+      "vesselId": "90820521d-de4c-8c07-cae9-6c798813bf1b",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070186",
+      "name": "DON JOAQUIN",
+      "flag": "MEX",
+      "vesselId": "915abaaa3-35d5-0c6f-b6ac-54142dfa1d6a",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070198",
+      "name": "DON LUIS",
+      "flag": "MEX",
+      "vesselId": "26116b00e-e332-37fb-0053-dfb87cbb32b4",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070180",
+      "name": "DON MIGUEL G",
+      "flag": "MEX",
+      "vesselId": "ca1dbd3e2-25d0-bac1-47ba-898270ce2afe",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070203",
+      "name": "DON OSIRIS R.R.",
+      "flag": "MEX",
+      "vesselId": "b5c5d2adc-c13b-b10a-dd39-56762734537a",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070177",
+      "name": "DON RODOLFO M",
+      "flag": "MEX",
+      "vesselId": "e4206069c-cfe4-c835-e4de-046ac1269d41",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050017",
+      "name": "DON VICENTE",
+      "flag": "MEX",
+      "vesselId": "1f270836b-bdd1-e334-d7a7-1d5d1cd8aba4",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070225",
+      "name": "DONA ANGELA MARIA T.",
+      "flag": "MEX",
+      "vesselId": "c008ae934-420e-c6b5-b84a-7b29ad6c0aa8",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070299",
+      "name": "DONA LOURDES",
+      "flag": "MEX",
+      "vesselId": "68a727fbf-f177-9539-9584-5a4266c501eb",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070282",
+      "name": "DONA PAULA",
+      "flag": "MEX",
+      "vesselId": "c39496ec6-6016-da12-5a5e-8f3317d0a723",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070196",
+      "name": "DONA SILVIA",
+      "flag": "MEX",
+      "vesselId": "8e0686291-14c2-b4ba-d4ca-d41eea1515fc",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050025",
+      "name": "DOREEN MCCALL",
+      "flag": "MEX",
+      "vesselId": "fe1bead72-2b8b-2d79-d19c-404ae2b2a537",
+      "type": "other"
+    },
+    {
+      "ssvid": "345080018",
+      "name": "DR JORGE CARRANZA F",
+      "flag": "MEX",
+      "vesselId": "cabd949cc-c915-54a0-05fe-52690ccde358",
+      "type": "other"
+    },
+    {
+      "ssvid": "538004173",
+      "name": "DUBAI BEAUTY",
+      "flag": "MHL",
+      "vesselId": "55c003f18-8140-e848-3126-193e51edc861",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070273",
+      "name": "EBANO",
+      "flag": "MEX",
+      "vesselId": "f613e7980-010b-382b-e4ab-24dae075dbf4",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010049",
+      "name": "EL MEZQUITAL",
+      "flag": "MEX",
+      "vesselId": "dc4ee8d66-684d-b5a1-3917-d030fce64913",
+      "type": "other"
+    },
+    {
+      "ssvid": "538011450",
+      "name": "ELANDRA CEDAR",
+      "flag": "MHL",
+      "vesselId": "cf00492d5-5e8f-b9d3-d42d-b64234ab54b0",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538004150",
+      "name": "EMERALD EXPRESS",
+      "flag": "MHL",
+      "vesselId": "532d9312d-d1e9-0ed8-bb7a-1b77dbd97db1",
+      "type": "other"
+    },
+    {
+      "ssvid": "352005497",
+      "name": "ERASMUS HOPE",
+      "flag": "PAN",
+      "vesselId": "d44dd7023-35d0-c798-d0cc-f0aac474a6c9",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636015002",
+      "name": "ERATO",
+      "flag": "LBR",
+      "vesselId": "bd4be52ab-b8c4-2ac6-4136-e18bdf3f83a7",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070393",
+      "name": "FARIDAH",
+      "flag": "MEX",
+      "vesselId": "61dc6ee77-70cc-50c8-b098-162c09f7b234",
+      "type": "other"
+    },
+    {
+      "ssvid": "477539200",
+      "name": "FRONT SINGAPORE",
+      "flag": "HKG",
+      "vesselId": "675fafbdb-bdec-bad1-a350-bebe6f769eb0",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070301",
+      "name": "FSV BLUEFIN",
+      "flag": "MEX",
+      "vesselId": "eee856b41-1f06-f2c8-e8fd-45608ac2a113",
+      "type": "other"
+    },
+    {
+      "ssvid": "477252700",
+      "name": "FU XING HAI",
+      "flag": "HKG",
+      "vesselId": "44d87867e-e8e1-9e0d-b7cd-a8a97c7e32ec",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345010047",
+      "name": "GARZPROM-2",
+      "flag": "MEX",
+      "vesselId": "57fa5279f-f2df-d0ad-b596-5dfe51595bf9",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070428",
+      "name": "GAYLA GRAHAM",
+      "flag": "MEX",
+      "vesselId": "5395f6443-3e16-021c-f5e1-e0300cf4593c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070070",
+      "name": "GEMINIS",
+      "flag": "MEX",
+      "vesselId": "a4576f8ec-caed-ada6-43c2-6e8de7092865",
+      "type": "other"
+    },
+    {
+      "ssvid": "538006041",
+      "name": "GENCO FREEDOM",
+      "flag": "MHL",
+      "vesselId": "186b7309e-e3c5-3a6d-b49c-e2712ceb78dc",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "529966000",
+      "name": "GEO SOVEREIGN",
+      "flag": "KIR",
+      "vesselId": "78de519a8-8ee2-77aa-57f4-51a0db01dad2",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070381",
+      "name": "GLEIXNER TIDE",
+      "flag": "MEX",
+      "vesselId": "d1db30fa8-896e-081c-9584-06512b65e19e",
+      "type": "other"
+    },
+    {
+      "ssvid": "351225000",
+      "name": "GLOBAL ROUND",
+      "flag": "PAN",
+      "vesselId": "c37d0a2e8-8a57-4ed0-7dda-8acb0741e673",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538008682",
+      "name": "GLOBE CLEOPATRA",
+      "flag": "MHL",
+      "vesselId": "ef75e03ad-d09a-5737-849d-27a061b36ed3",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070360",
+      "name": "GLORY",
+      "flag": "MEX",
+      "vesselId": "5f7014195-5098-a01b-49d2-f52c0932b17a",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050065",
+      "name": "GO CANOPUS",
+      "flag": "MEX",
+      "vesselId": "8db60ed56-6622-f7d8-5685-6c44ce9b5085",
+      "type": "other"
+    },
+    {
+      "ssvid": "538002609",
+      "name": "GOLAR MARIA",
+      "flag": "MHL",
+      "vesselId": "e33f11812-2ab9-687c-57c7-69798e24c74d",
+      "type": "other"
+    },
+    {
+      "ssvid": "303913000",
+      "name": "GORDON GUNTER",
+      "flag": "USA",
+      "vesselId": "054813ee2-2ab9-3876-1d86-3eb7e955ff17",
+      "type": "other"
+    },
+    {
+      "ssvid": "257031820",
+      "name": "GRAND CANYON",
+      "flag": "NOR",
+      "vesselId": "bf7ef5182-2f43-57fe-92c9-ec10b1234bc4",
+      "type": "other"
+    },
+    {
+      "ssvid": "354662000",
+      "name": "GRAND PHOENIX",
+      "flag": "PAN",
+      "vesselId": "d7ee61df9-9c52-1bc8-b972-cb3424708fb4",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "356909000",
+      "name": "GRAND VEGA",
+      "flag": "PAN",
+      "vesselId": "5a991a08a-abe3-8c32-12e2-32199f4815fa",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "247341500",
+      "name": "GRANDE COTONOU",
+      "flag": "ITA",
+      "vesselId": "bdeaa5e51-17f0-5333-d087-b8f63cfc1db7",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "247341100",
+      "name": "GRANDE LAGOS",
+      "flag": "ITA",
+      "vesselId": "6979004cb-b3d8-55c8-bc1d-26179983fc60",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538010449",
+      "name": "GREAT WHITE",
+      "flag": "MHL",
+      "vesselId": "a78ccecca-a30f-2e7c-afb0-2692fee11566",
+      "type": "other"
+    },
+    {
+      "ssvid": "636020775",
+      "name": "GSL MARIA",
+      "flag": "LBR",
+      "vesselId": "95d095170-02ba-7342-ba75-1750e120d645",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "219398000",
+      "name": "HAFNIA CRUX",
+      "flag": "DNK",
+      "vesselId": "7f32cba46-6a6d-9763-911d-395a8ed64aa6",
+      "type": "other"
+    },
+    {
+      "ssvid": "249340000",
+      "name": "HAFNIA KIRSTEN",
+      "flag": "MLT",
+      "vesselId": "28139a826-6491-4702-ef18-93438f00c969",
+      "type": "other"
+    },
+    {
+      "ssvid": "563857000",
+      "name": "HAFNIA SHINANO",
+      "flag": "SGP",
+      "vesselId": "5ba4bad8a-a10f-aa3d-e2e2-bc3223bff40c",
+      "type": "other"
+    },
+    {
+      "ssvid": "636020804",
+      "name": "HAI SHANG",
+      "flag": "LBR",
+      "vesselId": "f4c878308-8329-1abd-d69c-cab051d08512",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070411",
+      "name": "HARVEY HURRICANE",
+      "flag": "MEX",
+      "vesselId": "d86a21ff7-7273-a27c-2209-e674382a0ba9",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070389",
+      "name": "HARVEY LEGEND",
+      "flag": "MEX",
+      "vesselId": "46351ae33-3da0-34f0-528b-6555d8e6f490",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050058",
+      "name": "HEBERT TIDE",
+      "flag": "MEX",
+      "vesselId": "77f241b20-0c5e-33bc-9310-a5fdbb6ad5b8",
+      "type": "other"
+    },
+    {
+      "ssvid": "232012087",
+      "name": "HELLESPONT PROMISE",
+      "flag": "GBR",
+      "vesselId": "9b7db9c21-1b36-117d-730e-66f45061ce26",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070313",
+      "name": "HERCULES",
+      "flag": "MEX",
+      "vesselId": "c260088a7-7916-b8da-9385-173d3152e27f",
+      "type": "other"
+    },
+    {
+      "ssvid": "563308200",
+      "name": "HERMANN SCHULTE",
+      "flag": "SGP",
+      "vesselId": "59a6af621-1f1c-acd3-6450-03de5798c0ce",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "352915000",
+      "name": "HEROIC ACE",
+      "flag": "PAN",
+      "vesselId": "1b9c21447-734a-2141-a077-c8b9199d2cbd",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070421",
+      "name": "HORIZON",
+      "flag": "MEX",
+      "vesselId": "f9cbcd89e-ebe8-2f28-4f06-407954f94d4d",
+      "type": "other"
+    },
+    {
+      "ssvid": "345090011",
+      "name": "HOS BROWNING",
+      "flag": "MEX",
+      "vesselId": "112188efc-c73c-87f4-43c7-87a1b4ee6b2e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345090013",
+      "name": "HOS IRON HORSE",
+      "flag": "MEX",
+      "vesselId": "979f8efac-cdbd-3762-e0cb-f1a845990b14",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070363",
+      "name": "ICACOS",
+      "flag": "MEX",
+      "vesselId": "c0e00d03a-a49a-fb43-6879-079564781fb3",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070246",
+      "name": "INDEPENDENCIA",
+      "flag": "MEX",
+      "vesselId": "0ff00bd7b-bab2-362b-0247-259e4a5a1eff",
+      "type": "other"
+    },
+    {
+      "ssvid": "255806184",
+      "name": "INDUSTRIAL COLOR",
+      "flag": "PRT",
+      "vesselId": "f780b2734-4328-4421-2a81-3b85e75c226d",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538005698",
+      "name": "INTERLINK NOBILITY",
+      "flag": "MHL",
+      "vesselId": "0a70c6e76-6e76-b38c-48a9-18e9ab589d9c",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070088",
+      "name": "IOLAIR",
+      "flag": "MEX",
+      "vesselId": "cd420bdbb-bf88-5886-1a8e-edfadf6d4edf",
+      "type": "other"
+    },
+    {
+      "ssvid": "538008034",
+      "name": "IONIC ASTRAPI",
+      "flag": "MHL",
+      "vesselId": "30753991b-b120-f0a8-cfe2-18bf58208cbd",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070058",
+      "name": "ISLA MONTAGUE",
+      "flag": "MEX",
+      "vesselId": "b2474d4bf-f391-0598-d664-95079339972a",
+      "type": "other"
+    },
+    {
+      "ssvid": "311000557",
+      "name": "JAMNO",
+      "flag": "BHS",
+      "vesselId": "4aba91a03-39db-4769-f09b-c782d1d01194",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "355208000",
+      "name": "JEWEL OF SHINAS",
+      "flag": "PAN",
+      "vesselId": "21812d6db-b1bd-a71e-d67e-95842052876c",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070176",
+      "name": "JUAN PABLO II",
+      "flag": "MEX",
+      "vesselId": "dd6fd976a-a7b7-4ca4-9674-dfc2da269f64",
+      "type": "other"
+    },
+    {
+      "ssvid": "636019358",
+      "name": "KALAHARI",
+      "flag": "LBR",
+      "vesselId": "53aaa94c3-3aca-bfe8-7f13-d840af0584dd",
+      "type": "other"
+    },
+    {
+      "ssvid": "636017375",
+      "name": "KARADENIZ ONE",
+      "flag": "LBR",
+      "vesselId": "59ccb0546-6f52-9ac3-957b-d678500c2d91",
+      "type": "other"
+    },
+    {
+      "ssvid": "636020342",
+      "name": "KERASIA S",
+      "flag": "LBR",
+      "vesselId": "8544cff55-5966-c22c-fc5e-0636cb94106b",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345050033",
+      "name": "KIN",
+      "flag": "MEX",
+      "vesselId": "74be10ec8-823d-4994-0fe1-049cd4769f51",
+      "type": "other"
+    },
+    {
+      "ssvid": "345030017",
+      "name": "KUKULCAN",
+      "flag": "MEX",
+      "vesselId": "ba5964d76-6b54-c52f-239b-db7d098e51a2",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070436",
+      "name": "LA ARDILLA",
+      "flag": "MEX",
+      "vesselId": "162988ab9-9992-5a7a-513d-960ba6f41bb9",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070281",
+      "name": "LAGUNA AZUL",
+      "flag": "MEX",
+      "vesselId": "d1ad251bd-de42-d6f6-6368-d849b0795d1a",
+      "type": "other"
+    },
+    {
+      "ssvid": "538007574",
+      "name": "LARGO MARINER",
+      "flag": "MHL",
+      "vesselId": "578b6b59f-f4ba-77e4-1ff0-97ff2f84e29c",
+      "type": "other"
+    },
+    {
+      "ssvid": "477681900",
+      "name": "LAUST MAERSK",
+      "flag": "HKG",
+      "vesselId": "be5b1972e-e879-dcdf-adfa-e2261349a3bb",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "370573000",
+      "name": "LEFKARA",
+      "flag": "PAN",
+      "vesselId": "5b54f6e06-6647-07c7-a399-b2b2bfaead48",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070371",
+      "name": "LEIBE TIDE",
+      "flag": "MEX",
+      "vesselId": "4b892603a-aa71-2900-20c3-68758b6a1fd9",
+      "type": "other"
+    },
+    {
+      "ssvid": "636016127",
+      "name": "LEO SUN",
+      "flag": "LBR",
+      "vesselId": "8c054e225-5157-f913-4cca-4bf7bae7e24c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070394",
+      "name": "LEONARDO",
+      "flag": "MEX",
+      "vesselId": "e5e25d1b1-121b-768e-2d7d-14f5544cd198",
+      "type": "other"
+    },
+    {
+      "ssvid": "636016093",
+      "name": "LIBRA SUN",
+      "flag": "LBR",
+      "vesselId": "aab07aec9-93cd-9640-ef63-b451ea76457a",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070228",
+      "name": "LINDA F",
+      "flag": "MEX",
+      "vesselId": "03ff0ec21-1a90-c144-1341-b04cadae8820",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070227",
+      "name": "LISA F",
+      "flag": "MEX",
+      "vesselId": "c0dd8ac8c-cbfa-f0f1-6081-59f37e58e306",
+      "type": "other"
+    },
+    {
+      "ssvid": "613889000",
+      "name": "LITSA",
+      "flag": "CMR",
+      "vesselId": "90125fec9-90e5-2fbc-07f3-aa8dc9fee05e",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070120",
+      "name": "LOUSTEAU TIDE",
+      "flag": "MEX",
+      "vesselId": "fe189e3e0-02cf-ba1a-e4b2-e62720fb864c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070343",
+      "name": "M LUISA",
+      "flag": "MEX",
+      "vesselId": "0a5af6560-03b3-111b-f400-6918c6c9ec0d",
+      "type": "other"
+    },
+    {
+      "ssvid": "477174900",
+      "name": "MAERSK CHACHAI",
+      "flag": "HKG",
+      "vesselId": "7e021b9ee-ea5a-eb74-c8b0-50041be6d911",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "564726000",
+      "name": "MAERSK DANUBE",
+      "flag": "SGP",
+      "vesselId": "fc05573d4-43c3-3c4d-cd72-5ef9f11b5a2a",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "563101600",
+      "name": "MAERSK RUBICON",
+      "flag": "SGP",
+      "vesselId": "9c464d9aa-ab7d-74b4-f8aa-7434b54355f7",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070386",
+      "name": "MAGNUM",
+      "flag": "MEX",
+      "vesselId": "41cc6fa41-197a-fa98-1407-ae428a4dc6a8",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070416",
+      "name": "MAJESTY",
+      "flag": "MEX",
+      "vesselId": "4b792bfd8-8bb3-d3b5-63b0-3ed89d61a113",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070440",
+      "name": "MARIO JACOBO",
+      "flag": "MEX",
+      "vesselId": "117c2a9cc-c522-547e-7890-63e64e93e740",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005805",
+      "name": "MARLIN AMMOLITE",
+      "flag": "MHL",
+      "vesselId": "f1a0c0b96-6a8a-f946-9bef-ecec002e8940",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070048",
+      "name": "MAURICIO",
+      "flag": "MEX",
+      "vesselId": "ba2e96b28-8302-a2a1-accc-4df5684bc88c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070419",
+      "name": "MAYA",
+      "flag": "MEX",
+      "vesselId": "7b3064498-8a64-4567-b4c6-bddd39f49bad",
+      "type": "other"
+    },
+    {
+      "ssvid": "538009307",
+      "name": "MAYAN",
+      "flag": "MHL",
+      "vesselId": "3ceb0c931-1ddb-2589-b345-3a2b23306fc3",
+      "type": "other"
+    },
+    {
+      "ssvid": "232045708",
+      "name": "MELYNDA",
+      "flag": "GBR",
+      "vesselId": "90246ada3-396a-3600-8125-b1e69ee51454",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070349",
+      "name": "MERCURIO",
+      "flag": "MEX",
+      "vesselId": "d871a6d51-1987-4f2c-cd7c-86620a4186d7",
+      "type": "other"
+    },
+    {
+      "ssvid": "538010520",
+      "name": "MERGANSER",
+      "flag": "MHL",
+      "vesselId": "99d71c02d-dc90-3871-cec0-ded868c07f75",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345030072",
+      "name": "MIGUEL HIDALGO II",
+      "flag": "MEX",
+      "vesselId": "321faf865-57d8-4d85-d40e-e641be75f452",
+      "type": "other"
+    },
+    {
+      "ssvid": "538003490",
+      "name": "MINDORO STAR",
+      "flag": "MHL",
+      "vesselId": "d4e4d7d83-31e1-c6fa-f4de-25d1032e3041",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070423",
+      "name": "MISS LINDA",
+      "flag": "MEX",
+      "vesselId": "201135928-8d82-b911-540c-a5ff94959016",
+      "type": "other"
+    },
+    {
+      "ssvid": "357455000",
+      "name": "MSC CANBERRA",
+      "flag": "PAN",
+      "vesselId": "7f5ae4e0b-bff6-ee9e-0253-a20fb0178a45",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "356579000",
+      "name": "MSC DON GIOVANNI",
+      "flag": "PAN",
+      "vesselId": "36924cade-e07a-6e69-030b-8575cac6f749",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636014644",
+      "name": "MSC PETRA",
+      "flag": "LBR",
+      "vesselId": "caa6f34c8-871c-4c15-7970-bf356c1aedc5",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "354315000",
+      "name": "MSC TOMOKO",
+      "flag": "PAN",
+      "vesselId": "54c395c4a-ab53-b656-2e34-47439ce48dc9",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "566306000",
+      "name": "MTM HOUSTON",
+      "flag": "SGP",
+      "vesselId": "6fed8d5e9-9776-595b-2830-d309f5e3bff4",
+      "type": "other"
+    },
+    {
+      "ssvid": "565873000",
+      "name": "MTM SANTOS",
+      "flag": "SGP",
+      "vesselId": "d7545da4e-ed36-6569-62f1-3ed8435b401f",
+      "type": "other"
+    },
+    {
+      "ssvid": "538003878",
+      "name": "MV IONIC SPIRIT",
+      "flag": "MHL",
+      "vesselId": "c25b03b71-1c90-bfe7-d949-2293d413cdd0",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345010066",
+      "name": "NAUTLA",
+      "flag": "MEX",
+      "vesselId": "ef92c67f8-861a-5efd-fcb3-084065074310",
+      "type": "other"
+    },
+    {
+      "ssvid": "563267300",
+      "name": "NAVIG8 PROVIDENCE",
+      "flag": "SGP",
+      "vesselId": "3ebf66d92-2086-2d52-048e-2ec88205f122",
+      "type": "other"
+    },
+    {
+      "ssvid": "538009529",
+      "name": "NEGMAR CICEK",
+      "flag": "MHL",
+      "vesselId": "8defde4dd-d63d-44f9-c9ac-570f42d89dd3",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "565693000",
+      "name": "NEPTUNO",
+      "flag": "SGP",
+      "vesselId": "75553b0dc-cc2e-0b1d-6286-f9b55a8d7475",
+      "type": "other"
+    },
+    {
+      "ssvid": "255806138",
+      "name": "NORDLOTUS",
+      "flag": "PRT",
+      "vesselId": "e021c51bb-b964-d13e-e4ba-1d35ef891143",
+      "type": "other"
+    },
+    {
+      "ssvid": "255806156",
+      "name": "NORDORCHID",
+      "flag": "PRT",
+      "vesselId": "540602f5b-bbbd-6d5d-8052-46f7f71ece65",
+      "type": "other"
+    },
+    {
+      "ssvid": "255806155",
+      "name": "NORDROSE",
+      "flag": "PRT",
+      "vesselId": "4fdc0508d-dc52-d853-df25-ef652cb117e7",
+      "type": "other"
+    },
+    {
+      "ssvid": "255806154",
+      "name": "NORDTULIP",
+      "flag": "PRT",
+      "vesselId": "9a5dcae6f-f121-992d-bd23-6e49dfcebddd",
+      "type": "other"
+    },
+    {
+      "ssvid": "241942000",
+      "name": "NORTH STAR",
+      "flag": "GRC",
+      "vesselId": "733006370-0e73-d110-a1f9-599fe4c66e55",
+      "type": "other"
+    },
+    {
+      "ssvid": "370309000",
+      "name": "NORVIC MONIA",
+      "flag": "PAN",
+      "vesselId": "28df35ca4-472c-d6fb-84b6-8ff7866e2326",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070211",
+      "name": "OCEAN STAR",
+      "flag": "MEX",
+      "vesselId": "e975ce2cc-c7a3-ac20-4231-71cbc448b7f8",
+      "type": "other"
+    },
+    {
+      "ssvid": "538007623",
+      "name": "ODYSSEAS",
+      "flag": "MHL",
+      "vesselId": "b1ab177ea-abb2-f49c-63fa-57d255a433c1",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636020503",
+      "name": "OLYMPIOS",
+      "flag": "LBR",
+      "vesselId": "5afc03b42-29e6-c603-65d4-2bccb881e790",
+      "type": "other"
+    },
+    {
+      "ssvid": "305375000",
+      "name": "ONEGO NEVA",
+      "flag": "ATG",
+      "vesselId": "86551f031-17dd-c209-9cce-e8d29d50be13",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "563022700",
+      "name": "ORIENT CHALLENGE",
+      "flag": "SGP",
+      "vesselId": "c9aec4fb0-0459-8de8-9f19-15034f256c30",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070267",
+      "name": "ORION I",
+      "flag": "MEX",
+      "vesselId": "3850fe0eb-b98a-0284-1583-430ae9f8d7af",
+      "type": "other"
+    },
+    {
+      "ssvid": "477900700",
+      "name": "PACIFIC CONSTANT",
+      "flag": "HKG",
+      "vesselId": "7b1be1477-7729-7379-ebb1-566be7840a87",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636092681",
+      "name": "PALENA",
+      "flag": "LBR",
+      "vesselId": "ae19b3ad3-34e3-62ec-0b4a-49ed1a3340bc",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636024247",
+      "name": "PALMA",
+      "flag": "LBR",
+      "vesselId": "fc042fe58-8a2f-7881-9d1e-ceff64910b3e",
+      "type": "other"
+    },
+    {
+      "ssvid": "245964000",
+      "name": "PALMGRACHT",
+      "flag": "NLD",
+      "vesselId": "2649ecf99-9037-b3f4-9515-b09d259cf431",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636022285",
+      "name": "PARALOS",
+      "flag": "LBR",
+      "vesselId": "ebe774079-9fe5-cd1e-9e48-82c62f04f691",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345050039",
+      "name": "PAT TAYLOR",
+      "flag": "MEX",
+      "vesselId": "674f37c2b-b77e-c8ff-78d4-0005f236f83e",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070344",
+      "name": "PERLA DEL GOLFO",
+      "flag": "MEX",
+      "vesselId": "66ff165dc-ce2f-1fef-bfb8-896c4ef1040d",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070028",
+      "name": "PERSUADER I",
+      "flag": "MEX",
+      "vesselId": "bf98c2d06-6454-0204-83b7-597072ffe2c5",
+      "type": "other"
+    },
+    {
+      "ssvid": "563135500",
+      "name": "PICHON",
+      "flag": "SGP",
+      "vesselId": "ef56ff145-5a34-280f-094f-b8c2434f661a",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "309992000",
+      "name": "PINNACLE SPIRIT",
+      "flag": "BHS",
+      "vesselId": "79779c302-24d8-d541-da6b-375c7e8022b7",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010029",
+      "name": "PIONERO",
+      "flag": "MEX",
+      "vesselId": "b4dd910d7-70af-701d-cddb-421dadbe68b5",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070351",
+      "name": "POLARIS",
+      "flag": "MEX",
+      "vesselId": "8ebe01304-4f9d-a027-095c-d8397a150255",
+      "type": "other"
+    },
+    {
+      "ssvid": "563710000",
+      "name": "POLARIS LEADER",
+      "flag": "SGP",
+      "vesselId": "c1b2999a1-11c5-934a-3948-94fbe6154e01",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636022194",
+      "name": "PORT KYOTO",
+      "flag": "LBR",
+      "vesselId": "ec213a196-65dc-d1da-ddfe-4752c9131341",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636020868",
+      "name": "PORTO KAGIO",
+      "flag": "LBR",
+      "vesselId": "01ae50a77-70a7-4307-7fa8-3a94a9ef8492",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538008103",
+      "name": "PROMETHEUS LIGHT",
+      "flag": "MHL",
+      "vesselId": "271fddedd-d319-7cd2-3a7c-9c0965782e3c",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070390",
+      "name": "PROTEUS",
+      "flag": "MEX",
+      "vesselId": "b6cb00860-099c-34d0-8668-2f64e0382781",
+      "type": "other"
+    },
+    {
+      "ssvid": "563191500",
+      "name": "PROTEUS INGRID",
+      "flag": "SGP",
+      "vesselId": "21cc0e76e-ee87-0cc1-6ca4-0d3e932ef159",
+      "type": "other"
+    },
+    {
+      "ssvid": "247482300",
+      "name": "PS SINGAPORE",
+      "flag": "ITA",
+      "vesselId": "36c109f94-4ed6-a2f7-f3bb-467dfc0808ad",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010063",
+      "name": "PUNTA DELGADA",
+      "flag": "MEX",
+      "vesselId": "05424bfbc-c513-ddb1-6f2e-ee57b997ad58",
+      "type": "other"
+    },
+    {
+      "ssvid": "636025764",
+      "name": "QUEEN B III",
+      "flag": "LBR",
+      "vesselId": "263c23e07-711b-ad16-c03a-2a3b470f8487",
+      "type": "other"
+    },
+    {
+      "ssvid": "636092919",
+      "name": "RDO CONCORD",
+      "flag": "LBR",
+      "vesselId": "377834aaf-f6b5-7710-568b-d4cb0b1c2c0b",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345070321",
+      "name": "RED ARROW",
+      "flag": "MEX",
+      "vesselId": "4c378ee02-2047-33c3-1c5e-ef35ba36f655",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070300",
+      "name": "REDFIN",
+      "flag": "MEX",
+      "vesselId": "553ababee-e715-3d34-22b9-97e5843339c0",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050066",
+      "name": "REDFISH 4",
+      "flag": "MEX",
+      "vesselId": "e7800db75-5820-838c-0ebc-faf3018b4e16",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070379",
+      "name": "REFORMA PEMEX",
+      "flag": "MEX",
+      "vesselId": "d4330c597-721e-cc12-c752-6086fd7c9b99",
+      "type": "other"
+    },
+    {
+      "ssvid": "248680000",
+      "name": "ROJEN",
+      "flag": "MLT",
+      "vesselId": "b2cf802fa-a1bc-b0d0-2854-7d2bcd700eea",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345010058",
+      "name": "RPM COMALA",
+      "flag": "MEX",
+      "vesselId": "be9243768-8015-661b-04bb-08425fbe35ce",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010014",
+      "name": "RPM FRONTERA",
+      "flag": "MEX",
+      "vesselId": "9ef988966-65bf-2a98-ea70-c044a066a2ac",
+      "type": "other"
+    },
+    {
+      "ssvid": "345030090",
+      "name": "SAAM CITLALI",
+      "flag": "MEX",
+      "vesselId": "5070699d7-7b97-65e5-78b5-8146a98b1fca",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010054",
+      "name": "SAAM KABAH",
+      "flag": "MEX",
+      "vesselId": "c6db397d3-3113-2ec5-2da6-f00dee4beff0",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010033",
+      "name": "SAAM MIXTECO",
+      "flag": "MEX",
+      "vesselId": "d1e47fe66-6c7f-e28c-1e72-51561be1ece5",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050046",
+      "name": "SAAM QUETZAL",
+      "flag": "MEX",
+      "vesselId": "9753abac4-4def-857c-afbc-ddfbcd29fc6a",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050002",
+      "name": "SAAM YAQUI",
+      "flag": "MEX",
+      "vesselId": "3b35b9849-9654-a80e-f902-09396bb19f12",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010079",
+      "name": "SABALO",
+      "flag": "MEX",
+      "vesselId": "3508179fa-ada0-4ba0-c915-953792c01bb2",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010016",
+      "name": "SAN RAFAEL",
+      "flag": "MEX",
+      "vesselId": "7ce9a2445-5869-7c8f-f20e-af8ee50cbd38",
+      "type": "other"
+    },
+    {
+      "ssvid": "538007573",
+      "name": "SANDERLING ACE",
+      "flag": "MHL",
+      "vesselId": "88b2567eb-b3e9-4d15-6dd3-b18c17f3fde0",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "344021570",
+      "name": "SANTA MARIA",
+      "flag": null,
+      "vesselId": "4d18be4a7-714a-acf1-b4c9-2a3f199cb96b",
+      "type": "other"
+    },
+    {
+      "ssvid": "538008165",
+      "name": "SEA ELEPHANT",
+      "flag": "MHL",
+      "vesselId": "08cd7a166-6b98-5e6d-fce8-48cc37c93f6d",
+      "type": "other"
+    },
+    {
+      "ssvid": "538010130",
+      "name": "SEA NAVIGATOR",
+      "flag": "MHL",
+      "vesselId": "c337ac01b-be38-2da7-62f3-67788a825460",
+      "type": "other"
+    },
+    {
+      "ssvid": "241627000",
+      "name": "SEA PUMA",
+      "flag": "GRC",
+      "vesselId": "bf5cfa3f6-6c10-5883-77ae-1b5077ce4b38",
+      "type": "other"
+    },
+    {
+      "ssvid": "345020032",
+      "name": "SEACOR AZTECA",
+      "flag": "MEX",
+      "vesselId": "df5f10b48-8fab-d409-98b8-fa7e6cea3915",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050051",
+      "name": "SEACOR CABRAL",
+      "flag": "MEX",
+      "vesselId": "202f18c9d-d01e-b23b-0770-a6687027c03a",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050052",
+      "name": "SEACOR COLUMBUS",
+      "flag": "MEX",
+      "vesselId": "3c5679708-8464-7cfd-a14f-b4e64e541b28",
+      "type": "other"
+    },
+    {
+      "ssvid": "345030115",
+      "name": "SEACOR MARLIN",
+      "flag": "MEX",
+      "vesselId": "de14f4e46-6efb-2f3c-32f6-c787370e80f6",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070362",
+      "name": "SEACOR MAYA",
+      "flag": "MEX",
+      "vesselId": "3e78c6930-088e-15c4-359d-c3dcbdfec9f0",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050035",
+      "name": "SEACOR PRIDE",
+      "flag": "MEX",
+      "vesselId": "456c8a358-8746-63e5-1bcd-287c4ede4ec4",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070374",
+      "name": "SEACOR TOLTECA",
+      "flag": "MEX",
+      "vesselId": "080199233-3c49-2f3b-6c4d-5b9c7f331952",
+      "type": "other"
+    },
+    {
+      "ssvid": "236112603",
+      "name": "SEASTAR VICTORY",
+      "flag": "GIB",
+      "vesselId": "b28041e99-95d1-f9cb-dd5d-a85642ec8e6d",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538004033",
+      "name": "SEAWAYS SABINE",
+      "flag": "MHL",
+      "vesselId": "f9a3b96a5-5153-f92f-686b-7945c87a09f3",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005473",
+      "name": "SEAWAYS SHENANDOAH",
+      "flag": "MHL",
+      "vesselId": "1976602e9-9d08-5afa-7e9c-d79eb23e8b3d",
+      "type": "other"
+    },
+    {
+      "ssvid": "636021785",
+      "name": "SFL COMPOSER",
+      "flag": "LBR",
+      "vesselId": "2913496bc-c2e0-b75e-f03e-3d71512c5f20",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "636021786",
+      "name": "SFL CONDUCTOR",
+      "flag": "LBR",
+      "vesselId": "6ecd2b742-211f-615d-3380-28267bdfde49",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "373636000",
+      "name": "SIDER COLOMBIA",
+      "flag": "PAN",
+      "vesselId": "d85c1441b-b98f-0cbf-91de-716d217518b3",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538005462",
+      "name": "SILVER GINNY",
+      "flag": "MHL",
+      "vesselId": "4969fe3b4-4b57-43b6-7be1-8b97090f0bd2",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005601",
+      "name": "SILVER ORLA",
+      "flag": "MHL",
+      "vesselId": "8c60f3e9c-c295-e6a7-3c62-d63161229f61",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070347",
+      "name": "SIRIUS",
+      "flag": "MEX",
+      "vesselId": "3bee6400e-e8b6-042e-a3c7-49e208a96143",
+      "type": "other"
+    },
+    {
+      "ssvid": "563109900",
+      "name": "SOLAR CLAIRE",
+      "flag": "SGP",
+      "vesselId": "13581ed25-5e2e-e831-36ea-6c5161a88a24",
+      "type": "other"
+    },
+    {
+      "ssvid": "668116220",
+      "name": "SOLI DEO GLORIA",
+      "flag": "STP",
+      "vesselId": "6c331c2d6-6259-2607-faed-0c6a251b4d12",
+      "type": "other"
+    },
+    {
+      "ssvid": "311000635",
+      "name": "SONANGOL CAZENGA",
+      "flag": "BHS",
+      "vesselId": "cb90192e8-8c25-fe3b-d266-b8d13c85f857",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070023",
+      "name": "SPICA",
+      "flag": "MEX",
+      "vesselId": "7f35dcdc3-388c-df41-9915-ff8259f5d9a9",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070404",
+      "name": "SPIRIT",
+      "flag": "MEX",
+      "vesselId": "4448e717d-d6ec-8ee7-9dd9-3208152cf3c0",
+      "type": "other"
+    },
+    {
+      "ssvid": "538011388",
+      "name": "SSI FORMIDABLE II",
+      "flag": "MHL",
+      "vesselId": "a059d13f1-1c4f-84cd-6382-fb04f06fd732",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345050093",
+      "name": "STANFORD BATELEUR",
+      "flag": "MEX",
+      "vesselId": "90759b855-55a1-3272-c60f-b521f8adcc68",
+      "type": "other"
+    },
+    {
+      "ssvid": "265079640",
+      "name": "STENA SURPRISE",
+      "flag": "SWE",
+      "vesselId": "bc616208b-b317-83eb-7492-c0b8758f1182",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005417",
+      "name": "STI BROOKLYN",
+      "flag": "MHL",
+      "vesselId": "292ed9ed7-71f6-3e0c-2acf-cae775d76f8d",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005539",
+      "name": "STI WESTMINSTER",
+      "flag": "MHL",
+      "vesselId": "481f5a285-531d-db41-5e79-eba30bbb9cc2",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050077",
+      "name": "STIM STAR CAMPECHE",
+      "flag": "MEX",
+      "vesselId": "232fc31bb-b996-d780-f876-7f788d957afd",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050076",
+      "name": "STIM STAR MEXICO",
+      "flag": "MEX",
+      "vesselId": "f44d3a937-7839-f196-208f-9b9c973d1ff7",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070402",
+      "name": "SWIFT",
+      "flag": "MEX",
+      "vesselId": "29d6b2d5a-a6c5-01c5-734e-23c3d559d98c",
+      "type": "other"
+    },
+    {
+      "ssvid": "370756000",
+      "name": "T MATTERHORN",
+      "flag": "PAN",
+      "vesselId": "857a785c8-8be6-272f-d1e1-ebf6f9d0d77f",
+      "type": "other"
+    },
+    {
+      "ssvid": "345140009",
+      "name": "TANOK",
+      "flag": "MEX",
+      "vesselId": "9c1233535-521e-3239-4088-8acbc3e53bfe",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070378",
+      "name": "TARASCO",
+      "flag": "MEX",
+      "vesselId": "4bd3ea60b-bb8f-c9f0-8d85-af669f713fd0",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070235",
+      "name": "TILA",
+      "flag": "MEX",
+      "vesselId": "59ac9b360-063f-0750-8e99-9862b6ab5dbe",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070261",
+      "name": "TULUM",
+      "flag": "MEX",
+      "vesselId": "c45a13684-47b7-2296-6869-9cae8e019a96",
+      "type": "other"
+    },
+    {
+      "ssvid": "249637000",
+      "name": "TZAREVNA",
+      "flag": "MLT",
+      "vesselId": "fac9b5019-9f82-e508-9375-fce00355cf06",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "538004168",
+      "name": "UOG HERMES",
+      "flag": "MHL",
+      "vesselId": "7f11d4d40-0e42-4fb9-4873-241e98028cc3",
+      "type": "other"
+    },
+    {
+      "ssvid": "212623000",
+      "name": "UOG KYMA",
+      "flag": "CYP",
+      "vesselId": "452df2dc2-26fc-bd36-d0bb-2448d793bdad",
+      "type": "other"
+    },
+    {
+      "ssvid": "345050082",
+      "name": "UP JADE",
+      "flag": "MEX",
+      "vesselId": "d853c2415-5efb-2e38-65a3-a6e2c5d60acd",
+      "type": "other"
+    },
+    {
+      "ssvid": "247438800",
+      "name": "VALLEBLU",
+      "flag": "ITA",
+      "vesselId": "e4b60e4c2-2a29-fa18-cb62-ab847dd48425",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070372",
+      "name": "VICTORIA",
+      "flag": "MEX",
+      "vesselId": "0913f5000-0797-7fc3-d86d-64c696921b4b",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070291",
+      "name": "VIGO",
+      "flag": "MEX",
+      "vesselId": "39e0e4a5d-d8e9-30c6-25f9-360946702868",
+      "type": "other"
+    },
+    {
+      "ssvid": "636022758",
+      "name": "WOLFSBURG",
+      "flag": "LBR",
+      "vesselId": "73fde7ecd-dae4-f07f-f1b6-be836446237a",
+      "type": "cargo"
+    },
+    {
+      "ssvid": "345010043",
+      "name": "XICALANGO",
+      "flag": "MEX",
+      "vesselId": "9c67d5b55-503b-fac8-86ca-b6740fefb8a4",
+      "type": "other"
+    },
+    {
+      "ssvid": "345070434",
+      "name": "YAQUI",
+      "flag": "MEX",
+      "vesselId": "c63a2feb1-1ed3-58b5-84e1-2854b5d3d437",
+      "type": "other"
+    },
+    {
+      "ssvid": "538005322",
+      "name": "YAS",
+      "flag": "MHL",
+      "vesselId": "ae5c79805-5ae8-2a6d-8bb3-17ae8dab1ade",
+      "type": "other"
+    },
+    {
+      "ssvid": "414461000",
+      "name": "YUAN DONG HAI",
+      "flag": "CHN",
+      "vesselId": "1961be2de-e41f-b400-969d-e1e49323e84d",
+      "type": "other"
+    },
+    {
+      "ssvid": "345010069",
+      "name": "ZAPOTITLAN",
+      "flag": "MEX",
+      "vesselId": "cc1d9b735-5ae1-d2bc-7f8a-9f20072bb7a1",
+      "type": "other"
+    }
+  ]
+}

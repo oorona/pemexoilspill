@@ -1,0 +1,183 @@
+.root {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  padding: 10px 16px 14px;
+  background: rgba(4, 8, 15, 0.90);
+  border-top: 1px solid rgba(100, 160, 255, 0.12);
+  backdrop-filter: blur(16px) saturate(1.5);
+  -webkit-backdrop-filter: blur(16px) saturate(1.5);
+  user-select: none;
+}
+
+/* ── Controls row ── */
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.playBtn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(100, 160, 255, 0.25);
+  background: rgba(72, 149, 239, 0.12);
+  color: #4895ef;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+}
+
+.playBtn:hover {
+  background: rgba(72, 149, 239, 0.25);
+  border-color: rgba(100, 160, 255, 0.5);
+  transform: scale(1.08);
+}
+
+.dateDisplay {
+  font-size: 15px;
+  font-weight: 600;
+  color: #e0eaff;
+  letter-spacing: 0.02em;
+  min-width: 110px;
+}
+
+.range {
+  margin-left: auto;
+  font-size: 11px;
+  color: #455470;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.rangeSep {
+  color: #2a3550;
+}
+
+/* ── Scrubber ── */
+.trackWrap {
+  position: relative;
+  height: 28px;
+  display: flex;
+  align-items: center;
+}
+
+.track {
+  position: relative;
+  width: 100%;
+  height: 4px;
+  background: rgba(100, 160, 255, 0.10);
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.fill {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  background: linear-gradient(90deg, #4895ef 0%, #4cc9f0 100%);
+  border-radius: 2px;
+  pointer-events: none;
+  transition: width 0.15s linear;
+}
+
+.thumb {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #e0eaff;
+  border: 2.5px solid #4895ef;
+  box-shadow: 0 0 8px rgba(72, 149, 239, 0.6);
+  pointer-events: none;
+  transition: left 0.12s linear;
+  z-index: 2;
+}
+
+/* ── Day marker dots ── */
+.dayDot {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #5a6680;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 1;
+  transition: transform 0.12s, background 0.12s;
+}
+
+/* Invisible larger hit area */
+.dayDot::before {
+  content: '';
+  position: absolute;
+  top: -8px; left: -8px; right: -8px; bottom: -8px;
+}
+
+.dayDot:hover {
+  transform: translate(-50%, -50%) scale(1.8);
+  background: #8899b0;
+}
+
+/* ── Event dots ── */
+.eventDot {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--dot-color, #64748b);
+  border: 2px solid rgba(255,255,255,0.2);
+  cursor: pointer;
+  padding: 0;
+  z-index: 3;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.eventDot:hover {
+  transform: translate(-50%, -50%) scale(1.5);
+  box-shadow: 0 0 10px var(--dot-color, #64748b);
+  border-color: rgba(255,255,255,0.5);
+}
+
+.eventDotActive {
+  transform: translate(-50%, -50%) scale(1.6);
+  box-shadow: 0 0 14px var(--dot-color, #64748b);
+  border-color: rgba(255,255,255,0.7);
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 8px var(--dot-color, #64748b); }
+  50%       { box-shadow: 0 0 18px var(--dot-color, #64748b); }
+}
+
+/* ── Nearby event label ── */
+.labelsRow {
+  position: relative;
+  height: 18px;
+  margin-top: 2px;
+}
+
+.nearLabel {
+  position: absolute;
+  transform: translateX(-50%);
+  font-size: 10px;
+  color: #7090b0;
+  white-space: nowrap;
+  pointer-events: none;
+}

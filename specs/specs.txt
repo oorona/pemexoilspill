@@ -1,0 +1,257 @@
+PEMEX Oil Spill Forensic Intelligence Platform — Capability Specification
+========================================================================
+Version: 1.0.0
+Date: 2026-04-02
+Coverage: 100% of implemented features
+
+========================================================================
+1. SATELLITE IMAGERY & REMOTE SENSING
+========================================================================
+
+1.1  Sentinel-1 SAR (C-band Synthetic Aperture Radar)
+     - VV/VH dual-polarization processing
+     - Adaptive thresholding at -3.5 dB for oil film segmentation
+     - Custom eval script: [VV*3.5, VH*5.0, VV*0.6] RGB composition
+     - Cloud-penetrating: operates in all weather/lighting conditions
+     - Resolution: ~10m ground sampling distance
+     - Source: Copernicus Data Space (OAuth2 authenticated)
+
+1.2  Sentinel-2 L2A (Multispectral Optical)
+     - True-color composition: B04/B03/B02 at 3.5x gain
+     - Cloud coverage filter: max 80%
+     - Resolution: 10m (visible bands)
+     - Source: Copernicus Data Space (OAuth2 authenticated)
+
+1.3  NASA GIBS MODIS Terra
+     - Daily corrected reflectance composites
+     - Resolution: 250m/px
+     - Date-parameterized WMTS tiles
+     - Source: NASA Earthdata (public, no auth)
+
+1.4  ESRI World Imagery
+     - High-resolution satellite/aerial base layer
+     - Source: ArcGIS Online (public, no auth)
+
+1.5  EOX Sentinel-2 Cloudless 2023
+     - Annual cloud-free mosaic
+     - Source: EOX Labs (public, no auth)
+
+1.6  SkyTruth Cerulean SAR Slick Detection
+     - Pre-processed SAR-based oil slick polygons
+     - Dark vessel shadow detection
+     - Vectorized GeoJSON output
+     - Source: SkyTruth OGC API (public, no auth)
+
+========================================================================
+2. VESSEL INTELLIGENCE & AIS ANALYTICS
+========================================================================
+
+2.1  Fleet Discovery
+     - Area-of-interest vessel enumeration via GFW 4Wings presence API
+     - 760+ unique vessels identified in the AOI (Feb-Mar 2026)
+     - SSVID-based deduplication and IMO resolution
+
+2.2  PEMEX Fleet Tracking
+     - 24 PEMEX-affiliated vessels with reconstructed tracks
+     - 2,239 track points from multi-event fusion
+     - Source datasets: loitering, port visits, encounters
+
+2.3  Dark Vessel Detection (AIS Gap Analysis)
+     - 2 vessels identified with AIS transponders disabled
+     - Gap event detection via GFW public-global-gaps-events dataset
+     - Track reconstruction from sparse SAR-based positions
+     - 6 reconstructed track points
+
+2.4  Non-PEMEX Vessel Tracking
+     - 736 additional vessels tracked in the AOI
+     - 19,586 track points
+     - Independent animation pipeline with separate color coding
+
+2.5  Árbol Grande (Primary Suspect Vessel)
+     - IMO 9264867 / MMSI 345070403
+     - Diving Support Vessel — pipeline repair specialist
+     - Dedicated HTML marker with custom SVG icon (27x27px)
+     - 200+ hours anchored directly over pipeline rupture point
+
+2.6  Vessel Behavior Classification
+     - Loitering event clustering (stationary duration thresholds)
+     - Port visit tracking
+     - Ship-to-ship encounter detection
+     - Per-vessel severity assessment
+
+========================================================================
+3. ANIMATION & TEMPORAL PLAYBACK
+========================================================================
+
+3.1  Timeline Playback Engine
+     - Range: February 5 - March 31, 2026
+     - Tick rate: 125ms per 1-hour simulation step
+     - Effective speed: ~3 seconds per calendar day
+     - Play/pause toggle with keyboard support
+
+3.2  Vessel Position Interpolation
+     - Linear interpolation between sparse AIS waypoints
+     - Sub-hourly position computation (lon/lat)
+     - 12-hour gap timeout (distinguishes anchoring from data loss)
+
+3.3  Heading/Bearing Computation
+     - 1-hour look-back window for direction inference
+     - atan2-based bearing calculation (0=north, clockwise)
+     - Fallback to most recent waypoint for stationary vessels
+
+3.4  Directional Arrow Rendering
+     - Programmatic canvas-generated arrowhead icons (24x24px)
+     - Three color variants: PEMEX (blue #4895ef), Other (teal #43aa8b), Dark (magenta #ff006e)
+     - MapLibre symbol layer: icon-rotate from bearing property
+     - icon-rotation-alignment: 'map' (geographic north reference)
+
+3.5  Timeline Scrubber
+     - Drag-to-seek date control (percentage-based)
+     - Event markers on scrubber bar (colored by severity)
+     - Auto-scroll chronology panel to active event
+
+3.6  Event Card Auto-Dismiss
+     - Pop-up event cards appear on event date
+     - 5-second auto-dismiss timer
+     - Timer reset on new event trigger
+     - Manual close via button, Escape, or click-outside
+
+========================================================================
+4. MAP VISUALIZATION
+========================================================================
+
+4.1  Interactive Map (MapLibre GL 4.7.1)
+     - WebGL-accelerated rendering
+     - Initial bounds: [-94.3092, 18.0111] to [-90.5857, 20.0533]
+     - Min zoom: 6.2 / Max zoom: 15
+     - Navigation controls + scale bar + attribution
+
+4.2  9 Independent Overlay Groups
+     - Each with toggle switch, color indicator, and tooltip
+     - Dynamic layers marked with clock icon (⏱)
+     - Visibility state persisted in component state
+
+4.3  Infrastructure Layer
+     - PEMEX platform locations (circle + label)
+     - Pipeline routes (GeoJSON polylines)
+     - Terminal markers
+
+4.4  Boundary Layer
+     - Mexican Exclusive Economic Zone boundaries
+     - Marine Protected Areas (WDPA via public.aoi)
+
+4.5  Oil Slick Overlay (Cerulean)
+     - Fill polygons with semi-transparent orange/red
+     - Outline stroke for slick boundaries
+     - Date-filtered from Cerulean API
+
+4.6  Event Markers
+     - Severity-colored circles at event coordinates
+     - Text labels with event titles
+     - Click popup with full event details
+
+4.7  Coordinate Display
+     - Real-time viewport bounds readout
+     - Toggle button for AOI coordinate display
+
+========================================================================
+5. DATA PIPELINE (OFFLINE)
+========================================================================
+
+5.1  GFW Data Fetcher (fetch-gfw-data.cjs)
+     - Phase 1: Vessel discovery via 4Wings presence API
+     - Phase 2: Batched event queries (groups of 20, weekly windows)
+     - Multi-format response normalization
+     - Output: vessels-aoi.json, loitering-events.json, port-visits.json
+
+5.2  Dark Vessel Fetcher (fetch-dark-vessels.cjs)
+     - AIS gap event detection from GFW API
+     - Track reconstruction from gap event positions
+     - Output: dark-vessels-events.json, dark-vessels-tracks.json
+
+5.3  PEMEX Track Builder (build-pemex-tracks.cjs)
+     - Multi-event type fusion (loitering + port visits + encounters)
+     - SSVID filtering against PEMEX vessel roster
+     - Árbol Grande exclusion (separate dedicated layer)
+     - Hourly downsampling
+     - Output: pemex-tracks.json
+
+5.4  Data Quality Scripts
+     - check-pemex-data.cjs: Validate PEMEX fleet data integrity
+     - check-loitering.cjs: QA loitering event schema
+     - analyze-loitering.cjs: Summarize anomalies by vessel
+     - analyze-vessels.cjs: Vessel registry analysis
+     - diag-gfw.cjs: Diagnostic API queries
+
+========================================================================
+6. API PROXY LAYER (SERVERLESS)
+========================================================================
+
+6.1  GFW Proxy (api/gfw.js)
+     - Bearer token injection from environment variable
+     - Allowed paths: vessels/search, events, vessels
+     - GET and POST method support
+     - Error forwarding with status codes
+
+6.2  Copernicus Tile Processor (api/copernicus.js)
+     - OAuth2 client credentials flow
+     - Token caching (expires 60s before real expiry)
+     - XYZ tile → WGS-84 bounding box conversion
+     - Eval script injection (SAR or RGB)
+     - 512x512 PNG tile output
+
+6.3  Cerulean Proxy (api/cerulean.js)
+     - Passthrough to public OGC items endpoint
+     - Query parameter forwarding
+     - GeoJSON response passthrough
+
+========================================================================
+7. UI COMPONENTS
+========================================================================
+
+7.1  Header — Top navigation bar with info toggle
+7.2  ChronologyPanel — Collapsible sidebar with 8 events, auto-scroll
+7.3  EventCard — Pop-up detail card with severity badge, sources, play/pause
+7.4  InfoPanel — AOI bounds, methodology, impact statistics
+7.5  Timeline — Date scrubber with event markers and playback controls
+7.6  Map — Full-screen interactive WebGL map
+
+========================================================================
+8. SECURITY
+========================================================================
+
+8.1  Credential isolation — API keys in serverless functions only
+8.2  Docker secrets — Mounted read-only at /run/secrets/
+8.3  Security headers — X-Content-Type-Options, X-Frame-Options, Referrer-Policy
+8.4  No client-side token storage
+8.5  CORS enforcement on API endpoints
+8.6  .gitignore exclusion of all secret files
+
+========================================================================
+9. DEPLOYMENT
+========================================================================
+
+9.1  Vercel (primary) — Static SPA + serverless functions
+9.2  Docker (alternative) — 3-stage multi-build Alpine image
+9.3  Vercel CDN — Immutable caching for static data assets
+9.4  Environment variables — GFW_API_KEY, COPERNICUS_CLIENT_ID, COPERNICUS_CLIENT_SECRET
+
+========================================================================
+10. STATIC DATA ASSETS
+========================================================================
+
+10.1  pemex-tracks.json — 24 vessels, 2,239 track points
+10.2  other-tracks.json — 736 vessels, 19,586 track points
+10.3  dark-vessels-tracks.json — 2 vessels, 6 track points
+10.4  dark-vessels-events.json — 3 AIS gap events
+10.5  pemex-loitering.json — 502 PEMEX loitering events
+10.6  other-loitering.json — 4,509 non-PEMEX loitering events
+10.7  pemex-vessels.json — 46 PEMEX vessel registry entries
+10.8  vessels-aoi.json — Full AOI vessel presence data
+10.9  loitering-events.json — All loitering events (raw)
+10.10 port-visits.json — Port visit events
+10.11 encounters.json — Ship-to-ship encounter events
+10.12 arbol-grande.json — Árbol Grande dedicated track data
+10.13 pemex_pipelines.geojson — Pipeline infrastructure routes
+10.14 gulf_mpas.geojson — Marine Protected Areas boundaries
+10.15 favicon.svg — Application icon

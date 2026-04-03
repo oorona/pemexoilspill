@@ -1,0 +1,55 @@
+# ── SECRETS ──────────────────────────────────────────────────────────────────
+# Create files in ./secrets/ before running (see secrets/README.md)
+secrets:
+  gfw_api_key:
+    file: ../secrets/gfw_api_key.txt
+  copernicus_client_id:
+    file: ../secrets/copernicus_client_id.txt
+  copernicus_client_secret:
+    file: ../secrets/copernicus_client_secret.txt
+
+# ── SERVICES ─────────────────────────────────────────────────────────────────
+services:
+
+  # ── API proxy (reads Docker secrets, proxies external APIs) ──────────────
+  api:
+    build:
+      context: ..
+      dockerfile: dev/Dockerfile.dev
+    command: sh -c "cd /app/server && npm install && node index.cjs"
+    working_dir: /app
+    volumes:
+      - ../server:/app/server
+    ports:
+      - "3001:3001"
+    environment:
+      - PORT=3001
+      - NODE_ENV=development
+    secrets:
+      - gfw_api_key
+      - copernicus_client_id
+      - copernicus_client_secret
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  # ── Vite dev server (hot-reload frontend) ───────────────────────────────
+  web:
+    build:
+      context: ..
+      dockerfile: dev/Dockerfile.dev
+    command: sh -c "npm install && npm run dev"
+    working_dir: /app
+    volumes:
+      - ..:/app
+      - /app/node_modules
+    ports:
+      - "5173:5173"
+    environment:
+      - NODE_ENV=development
+    depends_on:
+      api:
+        condition: service_healthy

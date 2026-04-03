@@ -1,0 +1,55 @@
+{
+  "note": "PEMEX-related vessels extracted from forensic report. IMO is primary identifier; script resolves IMO→MMSI via GFW API. MMSI included where known from report.",
+  "vessels": [
+    { "imo": "7708302",  "name": "YUUM K'AK' NAAB",     "type": "FPSO",               "operator": "Pemex Exploración y Prod." },
+    { "imo": "9391294",  "name": "BICENTENARIO",         "type": "Tanker",             "operator": "Pemex Logística" },
+    { "imo": "9391309",  "name": "TAMPICO",              "type": "Tanker",             "operator": "Pemex Logística" },
+    { "imo": "9642942",  "name": "KUKULCAN",             "type": "Tanker",             "operator": "PMI Norteamérica" },
+    { "imo": "9642930",  "name": "CALAKMUL",             "type": "Tanker",             "operator": "PMI Norteamérica" },
+    { "imo": "9642899",  "name": "CENTLA",               "type": "Tanker",             "operator": "Pemex Logística" },
+    { "imo": "9642904",  "name": "JAGUAROUNDI",          "type": "Tanker",             "operator": "Pemex Logística" },
+    { "imo": "9642916",  "name": "TEXISTEPEC",           "type": "Tanker",             "operator": "Pemex Logística" },
+    { "imo": "9396098",  "name": "CENTENARIO",           "type": "Tanker",             "operator": "Pemex Logística" },
+    { "imo": "9642928",  "name": "RARAMURI",             "type": "Tug / Support",      "operator": "PMI Norteamérica" },
+
+    { "mmsi": "345030051", "name": "PEMEX XLVI",         "type": "Tug",                "operator": "Pemex" },
+    { "mmsi": "345030060", "name": "PEMEX XLVII",        "type": "Tug",                "operator": "Pemex" },
+    { "mmsi": "345140002", "name": "PEMEX LIII",         "type": "Tug",                "operator": "Pemex" },
+
+    { "imo": "9264867",  "mmsi": "345070403", "name": "ARBOL GRANDE",  "type": "Diving Support Vessel", "operator": "DOMX Marítima" },
+
+    { "imo": "9483047",  "name": "HERCULES",             "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9762950",  "name": "ARIES",                "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9754317",  "name": "ARTEMIS",              "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9461752",  "name": "ORION I",              "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9699074",  "name": "ANDROMEDA",            "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9699098",  "name": "DELTA",                "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9699062",  "name": "MERCURIO",             "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "9699086",  "name": "POLAR STAR",           "type": "Offshore Support",   "operator": "Cotemar" },
+    { "imo": "8936669",  "name": "GEMINIS",              "type": "Passenger / Ferry",   "operator": "Cotemar" },
+
+    { "imo": "9751822",  "mmsi": "345050061", "name": "ELENA",          "type": "Supply Vessel",         "operator": "Naviera Integral" },
+    { "imo": "9820817",  "name": "STIM STAR CAMPECHE",   "type": "Well Stimulation",   "operator": "Naviera Integral" },
+    { "imo": "9753234",  "name": "DONA PAULA",           "type": "Offshore Support",   "operator": "Naviera Integral" },
+    { "imo": "9753246",  "name": "DON IGNACIO",          "type": "Offshore Support",   "operator": "Naviera Integral" },
+    { "imo": "9753222",  "name": "VICTORIA I",           "type": "Offshore Support",   "operator": "Naviera Integral" },
+    { "imo": "9676541",  "name": "DON DANIEL T",         "type": "Offshore Support",   "operator": "Naviera Integral" },
+    { "imo": "9676553",  "name": "DON BENJAMIN",         "type": "Offshore Support",   "operator": "Naviera Integral" },
+    { "imo": "9768332",  "name": "LEONARDO",             "type": "Offshore Support",   "operator": "Naviera Integral" },
+    { "imo": "9461582",  "name": "DON OSIRIS R.R.",      "type": "Offshore Support",   "operator": "Petrolera Integral Naviera" },
+    { "imo": "9642241",  "name": "DONA LOURDES",         "type": "Offshore Support",   "operator": "Petrolera Integral Naviera" },
+    { "imo": "9650559",  "name": "DON JULIO M",          "type": "Offshore Support",   "operator": "Petrolera Integral Naviera" },
+    { "imo": "9654672",  "name": "DON ALEJANDRO",        "type": "Offshore Support",   "operator": "Petrolera Integral Naviera" },
+
+    { "imo": "9820805",  "mmsi": "345050076", "name": "STIM STAR MEXICO",  "type": "Well Stimulation",   "operator": "Halliburton / Marinsa" },
+    { "imo": "9654177",  "name": "STANFORD BATELEUR",    "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9761748",  "name": "PUERTO REAL",          "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9761736",  "name": "LAGUNERO",             "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9605619",  "name": "CARMEN III",           "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9579779",  "name": "RAWABI 19",            "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9570125",  "name": "ALEX G. MCRAE",        "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9089578",  "name": "LAGUNA AZUL",          "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9577745",  "name": "PERLA DEL GOLFO",      "type": "Offshore Support",   "operator": "Marinsa de México" },
+    { "imo": "9426556",  "name": "REDFIN",               "type": "Offshore Support",   "operator": "Marinsa de México" }
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+secrets/*.txt
+secrets/*.key
+secrets/*.pem
+!secrets/README.md
+.DS_Store
+*.log

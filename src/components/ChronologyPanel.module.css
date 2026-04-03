@@ -1,0 +1,202 @@
+.panel {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;         /* don't expand to fill stack when closed */
+  pointer-events: none;
+}
+
+/* ── Toggle button (same style as LayerPanel toggle) ── */
+.toggle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: rgba(8, 14, 26, 0.92);
+  border: 1px solid rgba(100, 160, 255, 0.22);
+  border-radius: 8px;
+  color: #ccdaee;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  cursor: pointer;
+  backdrop-filter: blur(14px);
+  transition: background 0.15s, border-color 0.15s;
+  pointer-events: auto;
+}
+.toggle:hover {
+  background: rgba(72, 149, 239, 0.12);
+  border-color: rgba(100, 160, 255, 0.40);
+}
+
+.toggleLeft  { display: flex; align-items: center; gap: 7px; }
+.toggleRight { display: flex; align-items: center; gap: 7px; }
+.toggleIcon  { font-size: 14px; }
+.toggleLabel { }
+
+.badge {
+  font-size: 10px;
+  font-weight: 700;
+  background: rgba(72, 149, 239, 0.18);
+  color: #4895ef;
+  border: 1px solid rgba(72, 149, 239, 0.3);
+  border-radius: 3px;
+  padding: 1px 5px;
+  letter-spacing: 0;
+}
+
+.caret {
+  font-size: 9px;
+  opacity: 0.55;
+}
+
+/* ── List container (open state) ── */
+.listWrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: 320px;
+  margin-top: 4px;
+  pointer-events: auto;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  overflow-y: auto;
+  flex: 1;
+  background: rgba(6, 11, 22, 0.94);
+  border: 1px solid rgba(100, 160, 255, 0.15);
+  border-radius: 8px;
+  backdrop-filter: blur(14px);
+  scrollbar-width: thin;
+  scrollbar-color: rgba(72, 149, 239, 0.25) transparent;
+}
+
+.list::-webkit-scrollbar { width: 4px; }
+.list::-webkit-scrollbar-thumb { background: rgba(72, 149, 239, 0.25); border-radius: 2px; }
+
+/* ── "More below" gradient hint ── */
+.moreHint {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 5px 0 3px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #4895ef;
+  opacity: 0.75;
+  background: linear-gradient(to bottom, rgba(6,11,22,0) 0%, rgba(6,11,22,0.94) 100%);
+  pointer-events: none;
+}
+.moreArrow {
+  font-size: 8px;
+  animation: bounce 1.2s ease-in-out infinite;
+}
+
+/* ── Coverage end label ── */
+.coverageLabel {
+  font-size: 9.5px;
+  text-align: center;
+  color: #3a5570;
+  padding: 6px 10px 5px;
+  border-top: 1px solid rgba(100, 160, 255, 0.08);
+  letter-spacing: 0.03em;
+  font-style: italic;
+  pointer-events: none;
+}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(3px); }
+}
+
+.card {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(100, 160, 255, 0.06);
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.12s;
+  color: inherit;
+}
+
+.card:last-child { border-bottom: none; }
+
+.card:hover { background: rgba(72, 149, 239, 0.08); }
+
+.cardPassed .cardTitle { color: #c0d4f0; }
+.cardPassed .cardDate  { color: #5a7a9a; }
+
+.cardCurrent {
+  background: rgba(72, 149, 239, 0.12) !important;
+}
+.cardCurrent .cardTitle { color: #e0eaff; }
+
+/* Invisible (future) events are dimmed */
+.card:not(.cardPassed) .cardTitle { color: #304a64; }
+.card:not(.cardPassed) .cardDate  { color: #253748; }
+
+.bar {
+  width: 3px;
+  flex-shrink: 0;
+  border-radius: 0;
+  opacity: 0.85;
+}
+
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 10px;
+  gap: 2px;
+  flex: 1;
+  min-width: 0;
+}
+
+.cardDate {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #5a7a9a;
+  text-transform: uppercase;
+}
+
+.cardTitle {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: #304a64;
+  line-height: 1.3;
+  white-space: normal;
+}
+
+.cardSub {
+  font-size: 10px;
+  font-style: italic;
+  color: #3a5a78;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nowBadge {
+  align-self: center;
+  flex-shrink: 0;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #4cc9f0;
+  padding: 2px 6px;
+  margin-right: 6px;
+  border: 1px solid rgba(76, 201, 240, 0.3);
+  border-radius: 3px;
+  background: rgba(76, 201, 240, 0.08);
+}

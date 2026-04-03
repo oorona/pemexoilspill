@@ -1,0 +1,55 @@
+{
+  "total": 2,
+  "totalPoints": 6,
+  "processedAt": "2026-04-02T19:46:54.099Z",
+  "source": "reconstructed-from-gap-events",
+  "note": "Tracks for dark vessels built from AIS gap event positions in the AOI.",
+  "vessels": {
+    "369970969": {
+      "name": "U.S. WARSHIP",
+      "flag": "USA",
+      "type": "other",
+      "vesselId": "d2745e648-8351-da6c-c6e2-844bdfb0e642",
+      "track": [
+        {
+          "t": "2026-03-06T21:53:17.000Z",
+          "lat": 21.2849,
+          "lon": -92.1188
+        },
+        {
+          "t": "2026-03-10T09:07:50.000Z",
+          "lat": 21.2849,
+          "lon": -92.1188
+        },
+        {
+          "t": "2026-03-14T20:11:31.000Z",
+          "lat": 21.76,
+          "lon": -88.8155
+        },
+        {
+          "t": "2026-03-19T04:48:47.000Z",
+          "lat": 21.76,
+          "lon": -88.8155
+        }
+      ]
+    },
+    "636024247": {
+      "name": "PALMA",
+      "flag": "LBR",
+      "type": "other",
+      "vesselId": "fc042fe58-8a2f-7881-9d1e-ceff64910b3e",
+      "track": [
+        {
+          "t": "2026-02-18T13:09:36.000Z",
+          "lat": 23.1783,
+          "lon": -95.2301
+        },
+        {
+          "t": "2026-02-19T07:27:36.000Z",
+          "lat": 23.1783,
+          "lon": -95.2301
+        }
+      ]
+    }
+  }
+}

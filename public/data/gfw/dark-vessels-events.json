@@ -1,0 +1,234 @@
+{
+  "total": 3,
+  "uniqueVessels": 2,
+  "processedAt": "2026-04-02T19:46:54.090Z",
+  "startDate": "2026-02-01",
+  "endDate": "2026-03-31",
+  "note": "AIS gap/disabling events in the Gulf of Mexico AOI. Vessels that turned off AIS transponders.",
+  "vessels": [
+    {
+      "ssvid": "369970969",
+      "vesselId": "d2745e648-8351-da6c-c6e2-844bdfb0e642",
+      "name": "U.S. WARSHIP",
+      "flag": "USA",
+      "type": "other",
+      "gapCount": 2,
+      "totalGapHours": 187.8636111111111
+    },
+    {
+      "ssvid": "636024247",
+      "vesselId": "fc042fe58-8a2f-7881-9d1e-ceff64910b3e",
+      "name": "PALMA",
+      "flag": "LBR",
+      "type": "other",
+      "gapCount": 1,
+      "totalGapHours": 18.3
+    }
+  ],
+  "entries": [
+    {
+      "start": "2026-02-18T13:09:36.000Z",
+      "end": "2026-02-19T07:27:36.000Z",
+      "id": "62577e9b5ade3b70eabb00556222bf60",
+      "type": "gap",
+      "position": {
+        "lat": 23.1783,
+        "lon": -95.2301
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -95.59713,
+        21.365826666666667,
+        -94.85291666666667,
+        24.989811666666668
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 248,
+        "endDistanceFromShoreKm": 175,
+        "startDistanceFromPortKm": 126.861398,
+        "endDistanceFromPortKm": 173.199672
+      },
+      "vessel": {
+        "id": "fc042fe58-8a2f-7881-9d1e-ceff64910b3e",
+        "name": "PALMA",
+        "ssvid": "636024247",
+        "flag": "LBR",
+        "type": "other",
+        "nextPort": null
+      },
+      "gap": {
+        "intentionalDisabling": true,
+        "distanceKm": "410.08355955960957",
+        "durationHours": 18.3,
+        "impliedSpeedKnots": "12.099858358991892",
+        "positions12HoursBeforeSat": "16",
+        "positionsPerDaySatReception": 41.78144698333503,
+        "offPosition": {
+          "lat": 24.989811666666668,
+          "lon": -94.85291666666667
+        },
+        "onPosition": {
+          "lat": "21.365826666666667",
+          "lon": "-95.59713"
+        }
+      }
+    },
+    {
+      "start": "2026-03-06T21:53:17.000Z",
+      "end": "2026-03-10T09:07:50.000Z",
+      "id": "fcbc7a50b2c76020c9672f2cd8044e0f",
+      "type": "gap",
+      "position": {
+        "lat": 21.2849,
+        "lon": -92.1188
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -95.17224,
+        19.611345,
+        -88.99622166666667,
+        22.902171666666668
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 98,
+        "endDistanceFromShoreKm": 88,
+        "startDistanceFromPortKm": 100.77856200000001,
+        "endDistanceFromPortKm": 184.567875
+      },
+      "vessel": {
+        "id": "d2745e648-8351-da6c-c6e2-844bdfb0e642",
+        "name": "U.S. WARSHIP",
+        "ssvid": "369970969",
+        "flag": "USA",
+        "type": "other",
+        "nextPort": null
+      },
+      "gap": {
+        "intentionalDisabling": true,
+        "distanceKm": "737.0959881858987",
+        "durationHours": 83.23333333333333,
+        "impliedSpeedKnots": "4.781738009061622",
+        "positions12HoursBeforeSat": "37",
+        "positionsPerDaySatReception": 98.01393308659809,
+        "offPosition": {
+          "lat": 19.611345,
+          "lon": -95.17224
+        },
+        "onPosition": {
+          "lat": "22.902171666666668",
+          "lon": "-88.99622166666667"
+        }
+      }
+    },
+    {
+      "start": "2026-03-14T20:11:31.000Z",
+      "end": "2026-03-19T04:48:47.000Z",
+      "id": "7d984aff4562c097ebfb11b68b80dece",
+      "type": "gap",
+      "position": {
+        "lat": 21.76,
+        "lon": -88.8155
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -95.27383833333333,
+        19.759251666666668,
+        -82.18678833333334,
+        23.503571666666666
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 102,
+        "endDistanceFromShoreKm": 36,
+        "startDistanceFromPortKm": 101.601148,
+        "endDistanceFromPortKm": 42.506199
+      },
+      "vessel": {
+        "id": "d2745e648-8351-da6c-c6e2-844bdfb0e642",
+        "name": "U.S. WARSHIP",
+        "ssvid": "369970969",
+        "flag": "USA",
+        "type": "other",
+        "nextPort": null
+      },
+      "gap": {
+        "intentionalDisabling": true,
+        "distanceKm": "1414.632326963875",
+        "durationHours": 104.61666666666666,
+        "impliedSpeedKnots": "7.301325626884301",
+        "positions12HoursBeforeSat": "35",
+        "positionsPerDaySatReception": 98.01393308659809,
+        "offPosition": {
+          "lat": 19.759251666666668,
+          "lon": -95.27383833333333
+        },
+        "onPosition": {
+          "lat": "23.503571666666666",
+          "lon": "-82.18678833333334"
+        }
+      }
+    }
+  ]
+}

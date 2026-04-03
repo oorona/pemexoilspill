@@ -1,0 +1,4799 @@
+{
+  "mmsi": "345070403",
+  "vesselId": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+  "startDate": "2026-02-01",
+  "endDate": "2026-03-31",
+  "processedAt": "2026-04-02T19:01:55.344Z",
+  "track": [
+    {
+      "t": "2026-01-31T14:34:46.000Z",
+      "lat": 19.4991,
+      "lon": -91.1993
+    },
+    {
+      "t": "2026-02-01T16:14:26.000Z",
+      "lat": 19.4991,
+      "lon": -91.1993
+    },
+    {
+      "t": "2026-02-02T00:54:12.000Z",
+      "lat": 19.1068,
+      "lon": -92.055
+    },
+    {
+      "t": "2026-02-05T12:58:26.000Z",
+      "lat": 19.1068,
+      "lon": -92.055
+    },
+    {
+      "t": "2026-02-05T19:36:41.000Z",
+      "lat": 19.3942,
+      "lon": -91.4143
+    },
+    {
+      "t": "2026-02-06T03:49:12.000Z",
+      "lat": 19.3942,
+      "lon": -91.4143
+    },
+    {
+      "t": "2026-02-06T10:55:44.000Z",
+      "lat": 19.0983,
+      "lon": -92.0578
+    },
+    {
+      "t": "2026-02-06T23:58:04.000Z",
+      "lat": 19.0983,
+      "lon": -92.0578
+    },
+    {
+      "t": "2026-02-07T01:37:52.000Z",
+      "lat": 19.2557,
+      "lon": -92.1675
+    },
+    {
+      "t": "2026-02-07T02:59:43.000Z",
+      "lat": 19.278,
+      "lon": -92.2334
+    },
+    {
+      "t": "2026-02-13T23:52:43.000Z",
+      "lat": 19.278,
+      "lon": -92.2334
+    },
+    {
+      "t": "2026-02-14T01:59:02.000Z",
+      "lat": 19.2691,
+      "lon": -92.2441
+    },
+    {
+      "t": "2026-02-15T08:54:16.000Z",
+      "lat": 19.2691,
+      "lon": -92.2441
+    },
+    {
+      "t": "2026-02-15T09:30:37.000Z",
+      "lat": 19.2557,
+      "lon": -92.1675
+    },
+    {
+      "t": "2026-02-18T23:59:23.000Z",
+      "lat": 19.2845,
+      "lon": -92.2299
+    },
+    {
+      "t": "2026-02-19T00:53:43.000Z",
+      "lat": 19.2659,
+      "lon": -92.2107
+    },
+    {
+      "t": "2026-02-19T01:11:00.000Z",
+      "lat": 19.4064,
+      "lon": -92.1517
+    },
+    {
+      "t": "2026-02-19T02:53:13.000Z",
+      "lat": 19.4382,
+      "lon": -92.0349
+    },
+    {
+      "t": "2026-02-19T16:51:33.000Z",
+      "lat": 19.4382,
+      "lon": -92.0349
+    },
+    {
+      "t": "2026-02-19T18:59:43.000Z",
+      "lat": 19.5662,
+      "lon": -92.2285
+    },
+    {
+      "t": "2026-02-22T17:55:36.000Z",
+      "lat": 19.5662,
+      "lon": -92.2285
+    },
+    {
+      "t": "2026-02-22T18:41:15.000Z",
+      "lat": 19.4064,
+      "lon": -92.1517
+    },
+    {
+      "t": "2026-02-23T01:02:17.000Z",
+      "lat": 19.5019,
+      "lon": -91.1991
+    },
+    {
+      "t": "2026-02-24T10:56:03.000Z",
+      "lat": 19.5019,
+      "lon": -91.1991
+    },
+    {
+      "t": "2026-02-24T18:14:56.000Z",
+      "lat": 19.5637,
+      "lon": -92.183
+    },
+    {
+      "t": "2026-02-26T00:56:55.000Z",
+      "lat": 19.5588,
+      "lon": -92.1714
+    },
+    {
+      "t": "2026-02-26T01:36:07.000Z",
+      "lat": 19.5637,
+      "lon": -92.183
+    },
+    {
+      "t": "2026-02-26T02:06:55.000Z",
+      "lat": 19.4691,
+      "lon": -92.0689
+    },
+    {
+      "t": "2026-02-28T06:54:58.000Z",
+      "lat": 19.4335,
+      "lon": -92.0291
+    },
+    {
+      "t": "2026-02-28T08:35:18.000Z",
+      "lat": 19.4691,
+      "lon": -92.0689
+    },
+    {
+      "t": "2026-02-28T10:51:59.000Z",
+      "lat": 19.1074,
+      "lon": -92.0686
+    },
+    {
+      "t": "2026-03-01T11:54:46.000Z",
+      "lat": 19.1074,
+      "lon": -92.0686
+    },
+    {
+      "t": "2026-03-01T13:59:41.000Z",
+      "lat": 19.351,
+      "lon": -92.1417
+    },
+    {
+      "t": "2026-03-01T15:59:19.000Z",
+      "lat": 19.351,
+      "lon": -92.1417
+    },
+    {
+      "t": "2026-03-01T17:57:29.000Z",
+      "lat": 19.5208,
+      "lon": -92.1836
+    },
+    {
+      "t": "2026-03-01T23:59:46.000Z",
+      "lat": 19.5208,
+      "lon": -92.1836
+    },
+    {
+      "t": "2026-03-02T01:23:42.000Z",
+      "lat": 19.4064,
+      "lon": -92.1517
+    },
+    {
+      "t": "2026-03-02T02:59:03.000Z",
+      "lat": 19.4178,
+      "lon": -92.0303
+    },
+    {
+      "t": "2026-03-04T23:59:02.000Z",
+      "lat": 19.4178,
+      "lon": -92.0303
+    },
+    {
+      "t": "2026-03-05T02:58:56.000Z",
+      "lat": 19.5172,
+      "lon": -92.1599
+    },
+    {
+      "t": "2026-03-07T09:53:02.000Z",
+      "lat": 19.5172,
+      "lon": -92.1599
+    },
+    {
+      "t": "2026-03-07T11:42:52.000Z",
+      "lat": 19.4691,
+      "lon": -92.0689
+    },
+    {
+      "t": "2026-03-07T12:55:42.000Z",
+      "lat": 19.2239,
+      "lon": -92.3823
+    },
+    {
+      "t": "2026-03-07T13:59:12.000Z",
+      "lat": 19.2239,
+      "lon": -92.3823
+    },
+    {
+      "t": "2026-03-07T14:53:41.000Z",
+      "lat": 19.1094,
+      "lon": -92.4403
+    },
+    {
+      "t": "2026-03-07T18:51:22.000Z",
+      "lat": 19.1094,
+      "lon": -92.4403
+    },
+    {
+      "t": "2026-03-07T22:44:14.000Z",
+      "lat": 19.3482,
+      "lon": -92.0483
+    },
+    {
+      "t": "2026-03-07T23:59:21.000Z",
+      "lat": 19.3639,
+      "lon": -92.0036
+    },
+    {
+      "t": "2026-03-12T22:54:59.000Z",
+      "lat": 19.3639,
+      "lon": -92.0036
+    },
+    {
+      "t": "2026-03-12T23:58:48.000Z",
+      "lat": 19.3137,
+      "lon": -91.9811
+    },
+    {
+      "t": "2026-03-13T00:00:57.000Z",
+      "lat": 19.3482,
+      "lon": -92.0483
+    },
+    {
+      "t": "2026-03-14T05:51:39.000Z",
+      "lat": 19.3137,
+      "lon": -91.9811
+    },
+    {
+      "t": "2026-03-14T06:12:33.000Z",
+      "lat": 19.3443,
+      "lon": -92.0049
+    },
+    {
+      "t": "2026-03-16T04:59:35.000Z",
+      "lat": 19.3568,
+      "lon": -92.0011
+    },
+    {
+      "t": "2026-03-16T06:58:51.000Z",
+      "lat": 19.408,
+      "lon": -92.0833
+    },
+    {
+      "t": "2026-03-16T21:54:49.000Z",
+      "lat": 19.408,
+      "lon": -92.0833
+    },
+    {
+      "t": "2026-03-16T23:28:00.000Z",
+      "lat": 19.3443,
+      "lon": -92.0049
+    },
+    {
+      "t": "2026-03-17T03:38:18.000Z",
+      "lat": 19.2579,
+      "lon": -91.5217
+    },
+    {
+      "t": "2026-03-18T10:58:11.000Z",
+      "lat": 19.2579,
+      "lon": -91.5217
+    },
+    {
+      "t": "2026-03-18T14:52:59.000Z",
+      "lat": 19.116,
+      "lon": -91.8725
+    },
+    {
+      "t": "2026-03-19T02:51:21.000Z",
+      "lat": 19.116,
+      "lon": -91.8725
+    },
+    {
+      "t": "2026-03-19T06:12:11.000Z",
+      "lat": 19.3482,
+      "lon": -92.0483
+    },
+    {
+      "t": "2026-03-19T08:57:02.000Z",
+      "lat": 19.5138,
+      "lon": -92.1523
+    },
+    {
+      "t": "2026-03-19T12:53:30.000Z",
+      "lat": 19.5138,
+      "lon": -92.1523
+    },
+    {
+      "t": "2026-03-19T14:52:51.000Z",
+      "lat": 19.5672,
+      "lon": -92.2291
+    },
+    {
+      "t": "2026-03-19T19:55:21.000Z",
+      "lat": 19.5672,
+      "lon": -92.2291
+    },
+    {
+      "t": "2026-03-19T22:57:31.000Z",
+      "lat": 19.4165,
+      "lon": -92.0786
+    },
+    {
+      "t": "2026-03-20T08:51:20.000Z",
+      "lat": 19.4165,
+      "lon": -92.0786
+    },
+    {
+      "t": "2026-03-20T11:09:50.000Z",
+      "lat": 19.5468,
+      "lon": -92.2267
+    },
+    {
+      "t": "2026-03-20T21:22:13.000Z",
+      "lat": 19.5468,
+      "lon": -92.2267
+    },
+    {
+      "t": "2026-03-20T23:56:32.000Z",
+      "lat": 19.4235,
+      "lon": -92.075
+    },
+    {
+      "t": "2026-03-21T09:59:42.000Z",
+      "lat": 19.4235,
+      "lon": -92.075
+    },
+    {
+      "t": "2026-03-21T11:03:12.000Z",
+      "lat": 19.3482,
+      "lon": -92.0483
+    },
+    {
+      "t": "2026-03-21T12:52:32.000Z",
+      "lat": 19.5666,
+      "lon": -92.2336
+    },
+    {
+      "t": "2026-03-21T14:51:32.000Z",
+      "lat": 19.5666,
+      "lon": -92.2336
+    },
+    {
+      "t": "2026-03-21T17:49:52.000Z",
+      "lat": 19.4254,
+      "lon": -92.0744
+    },
+    {
+      "t": "2026-03-22T09:54:32.000Z",
+      "lat": 19.4254,
+      "lon": -92.0744
+    },
+    {
+      "t": "2026-03-22T12:55:48.000Z",
+      "lat": 19.5655,
+      "lon": -92.2327
+    },
+    {
+      "t": "2026-03-22T13:59:11.000Z",
+      "lat": 19.5655,
+      "lon": -92.2327
+    },
+    {
+      "t": "2026-03-22T16:58:37.000Z",
+      "lat": 19.4235,
+      "lon": -92.0761
+    },
+    {
+      "t": "2026-03-23T09:56:07.000Z",
+      "lat": 19.4235,
+      "lon": -92.0761
+    },
+    {
+      "t": "2026-03-23T11:00:37.000Z",
+      "lat": 19.4951,
+      "lon": -92.1737
+    },
+    {
+      "t": "2026-03-23T12:57:09.000Z",
+      "lat": 19.5655,
+      "lon": -92.2341
+    },
+    {
+      "t": "2026-03-23T14:57:27.000Z",
+      "lat": 19.5655,
+      "lon": -92.2341
+    },
+    {
+      "t": "2026-03-23T17:54:16.000Z",
+      "lat": 19.4224,
+      "lon": -92.0759
+    },
+    {
+      "t": "2026-03-24T09:59:14.000Z",
+      "lat": 19.4224,
+      "lon": -92.0759
+    },
+    {
+      "t": "2026-03-24T10:46:26.000Z",
+      "lat": 19.4951,
+      "lon": -92.1737
+    },
+    {
+      "t": "2026-03-24T11:04:36.000Z",
+      "lat": 19.495,
+      "lon": -92.1751
+    },
+    {
+      "t": "2026-03-24T15:53:02.000Z",
+      "lat": 19.5487,
+      "lon": -92.22
+    },
+    {
+      "t": "2026-03-24T17:54:12.000Z",
+      "lat": 19.4268,
+      "lon": -92.0766
+    },
+    {
+      "t": "2026-03-25T09:56:12.000Z",
+      "lat": 19.4268,
+      "lon": -92.0766
+    },
+    {
+      "t": "2026-03-25T10:41:52.000Z",
+      "lat": 19.495,
+      "lon": -92.1751
+    },
+    {
+      "t": "2026-03-25T11:54:52.000Z",
+      "lat": 19.5498,
+      "lon": -92.232
+    },
+    {
+      "t": "2026-03-25T14:57:12.000Z",
+      "lat": 19.5498,
+      "lon": -92.232
+    },
+    {
+      "t": "2026-03-25T17:56:04.000Z",
+      "lat": 19.3987,
+      "lon": -92.0783
+    },
+    {
+      "t": "2026-03-26T06:59:23.000Z",
+      "lat": 19.3987,
+      "lon": -92.0783
+    },
+    {
+      "t": "2026-03-26T07:57:03.000Z",
+      "lat": 19.3878,
+      "lon": -92.0294
+    },
+    {
+      "t": "2026-03-27T03:58:02.000Z",
+      "lat": 19.3878,
+      "lon": -92.0294
+    },
+    {
+      "t": "2026-03-27T05:59:33.000Z",
+      "lat": 19.4198,
+      "lon": -92.0791
+    },
+    {
+      "t": "2026-03-27T09:57:43.000Z",
+      "lat": 19.4198,
+      "lon": -92.0791
+    },
+    {
+      "t": "2026-03-27T10:59:53.000Z",
+      "lat": 19.4505,
+      "lon": -92.1934
+    },
+    {
+      "t": "2026-03-27T13:53:22.000Z",
+      "lat": 19.3924,
+      "lon": -92.1118
+    },
+    {
+      "t": "2026-03-27T15:53:51.000Z",
+      "lat": 19.3845,
+      "lon": -92.0257
+    },
+    {
+      "t": "2026-03-28T01:53:14.000Z",
+      "lat": 19.3845,
+      "lon": -92.0257
+    },
+    {
+      "t": "2026-03-28T04:57:12.000Z",
+      "lat": 19.3798,
+      "lon": -92.0326
+    },
+    {
+      "t": "2026-03-28T15:57:39.000Z",
+      "lat": 19.3798,
+      "lon": -92.0326
+    },
+    {
+      "t": "2026-03-28T16:59:32.000Z",
+      "lat": 19.4002,
+      "lon": -92.0438
+    },
+    {
+      "t": "2026-03-29T23:15:25.000Z",
+      "lat": 19.4066,
+      "lon": -92.0822
+    }
+  ],
+  "events": [
+    {
+      "start": "2026-01-31T14:34:46.000Z",
+      "end": "2026-02-01T16:14:26.000Z",
+      "id": "1ce36d6f43d79152c0dca38bafe2cacb",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4991,
+        "lon": -91.1993
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "IWC",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.195,
+        19.498333333333335,
+        -91.20355333333333,
+        19.49993
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 45,
+        "endDistanceFromShoreKm": 45,
+        "startDistanceFromPortKm": 50.99802,
+        "endDistanceFromPortKm": 50.99802
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-31",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "78fdbdad9fd2cb6f16d0158359196c88"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 25.66111111111111,
+        "totalDistanceKm": 11.908022541878033,
+        "averageSpeedKnots": 0.2505666165175166,
+        "averageDistanceFromShoreKm": 45.370112440715715
+      }
+    },
+    {
+      "start": "2026-02-02T00:54:12.000Z",
+      "end": "2026-02-05T12:58:26.000Z",
+      "id": "5108de7ed30416b06b150b367b05584f",
+      "type": "loitering",
+      "position": {
+        "lat": 19.1068,
+        "lon": -92.055
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "IWC",
+          "ACAP",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.042615,
+        19.1125,
+        -92.06745,
+        19.101076666666668
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 43,
+        "endDistanceFromShoreKm": 42,
+        "startDistanceFromPortKm": 11.888449000000001,
+        "endDistanceFromPortKm": 8.596171
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-31",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "78fdbdad9fd2cb6f16d0158359196c88"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 84.07055555555556,
+        "totalDistanceKm": 7.081893451379585,
+        "averageSpeedKnots": 0.045484611409449045,
+        "averageDistanceFromShoreKm": 42.09316991043149
+      }
+    },
+    {
+      "start": "2026-02-05T19:36:41.000Z",
+      "end": "2026-02-06T03:49:12.000Z",
+      "id": "17eec22aec7a889a900b3c4eb3348de0",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3942,
+        "lon": -91.4143
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "IWC",
+          "ICCAT",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.41784,
+        19.3934,
+        -91.41069666666667,
+        19.39499
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 48,
+        "endDistanceFromShoreKm": 48,
+        "startDistanceFromPortKm": 56.469086000000004,
+        "endDistanceFromPortKm": 57.501379
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-31",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "78fdbdad9fd2cb6f16d0158359196c88"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 8.20861111111111,
+        "totalDistanceKm": 8.223622476835637,
+        "averageSpeedKnots": 0.5409442407873749,
+        "averageDistanceFromShoreKm": 48.53862364513464
+      }
+    },
+    {
+      "start": "2026-02-06T10:55:44.000Z",
+      "end": "2026-02-06T23:58:04.000Z",
+      "id": "cf3fed800601f303a27dc2454affde0e",
+      "type": "loitering",
+      "position": {
+        "lat": 19.0983,
+        "lon": -92.0578
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ACAP",
+          "ICCAT",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.048325,
+        19.095581666666668,
+        -92.067325,
+        19.101055
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 42,
+        "endDistanceFromShoreKm": 42,
+        "startDistanceFromPortKm": 10.451417,
+        "endDistanceFromPortKm": 8.596171
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-31",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "78fdbdad9fd2cb6f16d0158359196c88"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 13.03888888888889,
+        "totalDistanceKm": 2.965405246782256,
+        "averageSpeedKnots": 0.12280116439736173,
+        "averageDistanceFromShoreKm": 42
+      }
+    },
+    {
+      "start": "2026-02-07T01:37:52.000Z",
+      "end": "2026-02-15T09:30:37.000Z",
+      "id": "78fdbdad9fd2cb6f16d0158359196c88",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.2557,
+        "lon": -92.1675
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "NAMMCO",
+          "IWC",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.16749371829407,
+        19.255697852158974,
+        -92.21071183684754,
+        19.26593171097777
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 61,
+        "endDistanceFromShoreKm": 63,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "8505398d780e7ff851751e071e80024e",
+        "confidence": "4",
+        "durationHrs": 199.87916666666666,
+        "startAnchorage": {
+          "anchorageId": "85f01497",
+          "atDock": false,
+          "distanceFromShoreKm": "61",
+          "flag": "MEX",
+          "id": "mex-mex-31",
+          "lat": 19.255697852158974,
+          "lon": -92.16749371829407,
+          "name": null,
+          "topDestination": "ARE CONGO"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f01497",
+          "atDock": false,
+          "distanceFromShoreKm": "61",
+          "flag": "MEX",
+          "id": "mex-mex-31",
+          "lat": 19.255697852158974,
+          "lon": -92.16749371829407,
+          "name": null,
+          "topDestination": "ARE CONGO"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f01409",
+          "atDock": false,
+          "distanceFromShoreKm": "63",
+          "flag": "MEX",
+          "id": "mex-mex-22",
+          "lat": 19.26593171097777,
+          "lon": -92.21071183684754,
+          "name": null,
+          "topDestination": "INYECCION DE AGUA"
+        }
+      }
+    },
+    {
+      "start": "2026-02-07T02:59:43.000Z",
+      "end": "2026-02-13T23:52:43.000Z",
+      "id": "a1028eece8869abc11083ffdb4733a86",
+      "type": "loitering",
+      "position": {
+        "lat": 19.278,
+        "lon": -92.2334
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ACAP",
+          "ICCAT",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23822,
+        19.278415,
+        -92.22865833333333,
+        19.277605
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 64,
+        "endDistanceFromShoreKm": 64,
+        "startDistanceFromPortKm": 3.3394209999999998,
+        "endDistanceFromPortKm": 2.375549
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 164.88333333333333,
+        "totalDistanceKm": 6.065943871421888,
+        "averageSpeedKnots": 0.019864637598836343,
+        "averageDistanceFromShoreKm": 63.983456043911815
+      }
+    },
+    {
+      "start": "2026-02-14T01:59:02.000Z",
+      "end": "2026-02-15T08:54:16.000Z",
+      "id": "06568c42a36b40b5892fdfc3479d57f4",
+      "type": "loitering",
+      "position": {
+        "lat": 19.2691,
+        "lon": -92.2441
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "IWC",
+          "NAMMCO",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.235005,
+        19.27622,
+        -92.253125,
+        19.262075
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 64,
+        "endDistanceFromShoreKm": 62,
+        "startDistanceFromPortKm": 3.3394209999999998,
+        "endDistanceFromPortKm": 2.223899
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 30.920555555555556,
+        "totalDistanceKm": 6.314616584804047,
+        "averageSpeedKnots": 0.1102703403906557,
+        "averageDistanceFromShoreKm": 63.206950609220186
+      }
+    },
+    {
+      "start": "2026-02-15T09:57:47.000Z",
+      "end": "2026-02-18T23:59:23.000Z",
+      "id": "25fd23df7bcafdbec4fde3533852a6d3",
+      "type": "loitering",
+      "position": {
+        "lat": 19.2845,
+        "lon": -92.2299
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ICCAT",
+          "ACAP",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23588,
+        19.276138333333332,
+        -92.22394833333334,
+        19.292798333333334
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 64,
+        "endDistanceFromShoreKm": 65,
+        "startDistanceFromPortKm": 3.3394209999999998,
+        "endDistanceFromPortKm": 2.375322
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 86.02666666666667,
+        "totalDistanceKm": 4.040938427081589,
+        "averageSpeedKnots": 0.02536343997266399,
+        "averageDistanceFromShoreKm": 64.00120008369545
+      }
+    },
+    {
+      "start": "2026-02-15T09:57:47.000Z",
+      "end": "2026-02-19T00:53:43.000Z",
+      "id": "fb90a5bdf818d1e3f0e1fb0947510214",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.2659,
+        "lon": -92.2107
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ACAP",
+          "NAMMCO",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.21071183684754,
+        19.26593171097777,
+        -92.18649421770988,
+        19.32431441976878
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 63,
+        "endDistanceFromShoreKm": 68,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "7a4b772ebefc5ee6277df3a03d0c7596",
+        "confidence": "4",
+        "durationHrs": 86.93222222222222,
+        "startAnchorage": {
+          "anchorageId": "85f01409",
+          "atDock": false,
+          "distanceFromShoreKm": "63",
+          "flag": "MEX",
+          "id": "mex-mex-22",
+          "lat": 19.26593171097777,
+          "lon": -92.21071183684754,
+          "name": null,
+          "topDestination": "INYECCION DE AGUA"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f01409",
+          "atDock": false,
+          "distanceFromShoreKm": "63",
+          "flag": "MEX",
+          "id": "mex-mex-22",
+          "lat": 19.26593171097777,
+          "lon": -92.21071183684754,
+          "name": null,
+          "topDestination": "INYECCION DE AGUA"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f01257",
+          "atDock": false,
+          "distanceFromShoreKm": "68",
+          "flag": "MEX",
+          "id": "mex-mex-4",
+          "lat": 19.32431441976878,
+          "lon": -92.18649421770988,
+          "name": null,
+          "topDestination": "MANIK A"
+        }
+      }
+    },
+    {
+      "start": "2026-02-19T01:11:00.000Z",
+      "end": "2026-02-22T18:41:15.000Z",
+      "id": "99d3b53970edcfdef058d3b9e38b9b92",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4064,
+        "lon": -92.1517
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ICCAT",
+          "NAMMCO",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.15170707804036,
+        19.406407879354976,
+        -92.18295746369748,
+        19.56374265804446
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "5478d133342788a36d9994366b83bfac",
+        "confidence": "4",
+        "durationHrs": 89.50416666666666,
+        "startAnchorage": {
+          "anchorageId": "85f00d2f",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-mex-38",
+          "lat": 19.406407879354976,
+          "lon": -92.15170707804036,
+          "name": null,
+          "topDestination": "KAMBESAH"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f00d2f",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-mex-38",
+          "lat": 19.406407879354976,
+          "lon": -92.15170707804036,
+          "name": null,
+          "topDestination": "KAMBESAH"
+        },
+        "endAnchorage": {
+          "anchorageId": "85faa07d",
+          "atDock": false,
+          "distanceFromShoreKm": "76",
+          "flag": "MEX",
+          "id": "mex-mex-50",
+          "lat": 19.56374265804446,
+          "lon": -92.18295746369748,
+          "name": null,
+          "topDestination": "KU M"
+        }
+      }
+    },
+    {
+      "start": "2026-02-19T02:53:13.000Z",
+      "end": "2026-02-19T16:51:33.000Z",
+      "id": "9a07f36190ae94ddcf5e89f5a566110b",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4382,
+        "lon": -92.0349
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "IWC",
+          "ACAP",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.02407,
+        19.440038333333334,
+        -92.04574666666667,
+        19.436428333333332
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 79,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 1.048558,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 13.972222222222223,
+        "totalDistanceKm": 5.1630652230346685,
+        "averageSpeedKnots": 0.19952675741366924,
+        "averageDistanceFromShoreKm": 78.38773824275684
+      }
+    },
+    {
+      "start": "2026-02-19T18:59:43.000Z",
+      "end": "2026-02-22T17:55:36.000Z",
+      "id": "ed9cbf62543f36a51c548848806a6f1b",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5662,
+        "lon": -92.2285
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ICCAT",
+          "ACAP",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.22743333333334,
+        19.563591666666667,
+        -92.22949166666666,
+        19.568785
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 1.047715
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 70.93138888888889,
+        "totalDistanceKm": 12.678510661431988,
+        "averageSpeedKnots": 0.09651366195648399,
+        "averageDistanceFromShoreKm": 76.02991075082662
+      }
+    },
+    {
+      "start": "2026-02-23T01:02:17.000Z",
+      "end": "2026-02-24T10:56:03.000Z",
+      "id": "cf93e50d73bc985550fdb524e9899383",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5019,
+        "lon": -91.1991
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "IWC",
+          "ACAP",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.19833333333334,
+        19.498333333333335,
+        -91.19979,
+        19.505501666666667
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 45,
+        "endDistanceFromShoreKm": 46,
+        "startDistanceFromPortKm": 50.99802,
+        "endDistanceFromPortKm": 50.643832
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-50",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "6ba3e730f3784de073fb83b27389d5e8"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 33.89611111111111,
+        "totalDistanceKm": 12.367568373988364,
+        "averageSpeedKnots": 0.19701235530673697,
+        "averageDistanceFromShoreKm": 44.97828847950561
+      }
+    },
+    {
+      "start": "2026-02-24T18:14:56.000Z",
+      "end": "2026-02-26T01:36:07.000Z",
+      "id": "6ba3e730f3784de073fb83b27389d5e8",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.5637,
+        "lon": -92.183
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ACAP",
+          "NAMMCO",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.18295746369748,
+        19.56374265804446,
+        -92.13914234534062,
+        19.499224866510456
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 81,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "33357e69381ce054d003e702b8a3a7a0",
+        "confidence": "4",
+        "durationHrs": 31.353055555555557,
+        "startAnchorage": {
+          "anchorageId": "85faa07d",
+          "atDock": false,
+          "distanceFromShoreKm": "76",
+          "flag": "MEX",
+          "id": "mex-mex-50",
+          "lat": 19.56374265804446,
+          "lon": -92.18295746369748,
+          "name": null,
+          "topDestination": "KU M"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85faa07d",
+          "atDock": false,
+          "distanceFromShoreKm": "76",
+          "flag": "MEX",
+          "id": "mex-mex-50",
+          "lat": 19.56374265804446,
+          "lon": -92.18295746369748,
+          "name": null,
+          "topDestination": "KU M"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f074d1",
+          "atDock": false,
+          "distanceFromShoreKm": "81",
+          "flag": "MEX",
+          "id": "mex-mex-13",
+          "lat": 19.499224866510456,
+          "lon": -92.13914234534062,
+          "name": "MEX-13",
+          "topDestination": "PLATTFORMS AREA"
+        }
+      }
+    },
+    {
+      "start": "2026-02-24T18:58:17.000Z",
+      "end": "2026-02-26T00:56:55.000Z",
+      "id": "c03cc66dfc4d2067a79cc7ace17ece78",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5588,
+        "lon": -92.1714
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "NAMMCO",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.179045,
+        19.561846666666668,
+        -92.16381,
+        19.55569
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 75,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 2.095561
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 29.97722222222222,
+        "totalDistanceKm": 6.21374754914734,
+        "averageSpeedKnots": 0.11192348774834932,
+        "averageDistanceFromShoreKm": 75.99562406991043
+      }
+    },
+    {
+      "start": "2026-02-26T02:06:55.000Z",
+      "end": "2026-02-28T08:35:18.000Z",
+      "id": "379dffc9b8afd8f3ad8032d8241079c7",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4691,
+        "lon": -92.0689
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.0689481396413,
+        19.46914126547658,
+        -92.00488257001656,
+        19.344252109446725
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 82,
+        "endDistanceFromShoreKm": 68,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "979db7508fdd73cf62e8cbc3ddcf5e6e",
+        "confidence": "4",
+        "durationHrs": 54.473055555555554,
+        "startAnchorage": {
+          "anchorageId": "85f07403",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-23",
+          "lat": 19.46914126547658,
+          "lon": -92.0689481396413,
+          "name": "MEX-23",
+          "topDestination": "ENLACE LITORAL"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f07403",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-23",
+          "lat": 19.46914126547658,
+          "lon": -92.0689481396413,
+          "name": "MEX-23",
+          "topDestination": "ENLACE LITORAL"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f06feb",
+          "atDock": false,
+          "distanceFromShoreKm": "68",
+          "flag": "MEX",
+          "id": "mex-mex-3",
+          "lat": 19.344252109446725,
+          "lon": -92.00488257001656,
+          "name": null,
+          "topDestination": "AKAL D"
+        }
+      }
+    },
+    {
+      "start": "2026-02-26T02:52:38.000Z",
+      "end": "2026-02-28T06:54:58.000Z",
+      "id": "54431e6f766fdbbdd7928a65d32eecc2",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4335,
+        "lon": -92.0291
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.027745,
+        19.434451666666668,
+        -92.030415,
+        19.432515
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 78,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 52.03888888888889,
+        "totalDistanceKm": 4.39558500183751,
+        "averageSpeedKnots": 0.04560869913994005,
+        "averageDistanceFromShoreKm": 78.1540460993417
+      }
+    },
+    {
+      "start": "2026-02-28T10:51:59.000Z",
+      "end": "2026-03-01T11:54:46.000Z",
+      "id": "61b194002798fd68cce7a7aa66b68c98",
+      "type": "loitering",
+      "position": {
+        "lat": 19.1074,
+        "lon": -92.0686
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "ICCAT",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.06738,
+        19.100755,
+        -92.06982166666667,
+        19.11400666666667
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 42,
+        "endDistanceFromShoreKm": 44,
+        "startDistanceFromPortKm": 8.596171,
+        "endDistanceFromPortKm": 9.220562
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-38",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "f6f0fabca0a2d9c3b72a99f4da0bce74"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 25.046388888888888,
+        "totalDistanceKm": 2.650861568524291,
+        "averageSpeedKnots": 0.057147988290598625,
+        "averageDistanceFromShoreKm": 42.0138988055208
+      }
+    },
+    {
+      "start": "2026-03-01T13:59:41.000Z",
+      "end": "2026-03-01T15:59:19.000Z",
+      "id": "41bbf582d653c4201b4281b8413e292b",
+      "type": "loitering",
+      "position": {
+        "lat": 19.351,
+        "lon": -92.1417
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.13041666666666,
+        19.32205,
+        -92.15306833333334,
+        19.379901666666665
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 67,
+        "endDistanceFromShoreKm": 74,
+        "startDistanceFromPortKm": 2.4590549999999998,
+        "endDistanceFromPortKm": 3.335848
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 1.9938888888888888,
+        "totalDistanceKm": 7.250482813286663,
+        "averageSpeedKnots": 1.9634732633243996,
+        "averageDistanceFromShoreKm": 70.87706517497072
+      }
+    },
+    {
+      "start": "2026-03-01T15:59:19.000Z",
+      "end": "2026-03-02T01:23:42.000Z",
+      "id": "f6f0fabca0a2d9c3b72a99f4da0bce74",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4064,
+        "lon": -92.1517
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "NAMMCO",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.15170707804036,
+        19.406407879354976,
+        -92.13914234534062,
+        19.499224866510456
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 81,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "aa476891e3163a592fd1585fb16e5beb",
+        "confidence": "4",
+        "durationHrs": 9.40638888888889,
+        "startAnchorage": {
+          "anchorageId": "85f00d2f",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-mex-38",
+          "lat": 19.406407879354976,
+          "lon": -92.15170707804036,
+          "name": null,
+          "topDestination": "KAMBESAH"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f00d2f",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-mex-38",
+          "lat": 19.406407879354976,
+          "lon": -92.15170707804036,
+          "name": null,
+          "topDestination": "KAMBESAH"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f074d1",
+          "atDock": false,
+          "distanceFromShoreKm": "81",
+          "flag": "MEX",
+          "id": "mex-mex-13",
+          "lat": 19.499224866510456,
+          "lon": -92.13914234534062,
+          "name": "MEX-13",
+          "topDestination": "PLATTFORMS AREA"
+        }
+      }
+    },
+    {
+      "start": "2026-03-01T17:57:29.000Z",
+      "end": "2026-03-01T23:59:46.000Z",
+      "id": "4beef99e117d73eac7e5d481246045de",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5208,
+        "lon": -92.1836
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "IWC",
+          "NAMMCO",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.183265,
+        19.519363333333335,
+        -92.18386333333333,
+        19.522271666666665
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 80,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 6.038055555555555,
+        "totalDistanceKm": 6.714575880743035,
+        "averageSpeedKnots": 0.600455046457969,
+        "averageDistanceFromShoreKm": 79.77435276169967
+      }
+    },
+    {
+      "start": "2026-03-02T01:38:55.000Z",
+      "end": "2026-03-07T11:42:52.000Z",
+      "id": "7c4fae3fa924d28a7098bfef7fc6ccfe",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4691,
+        "lon": -92.0689
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "ICCAT",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.0689481396413,
+        19.46914126547658,
+        -92.27091062511217,
+        19.386752792462374
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 82,
+        "endDistanceFromShoreKm": 77,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "110c68723cf95d6bb58891fc8deba377",
+        "confidence": "4",
+        "durationHrs": 130.06583333333333,
+        "startAnchorage": {
+          "anchorageId": "85f07403",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-23",
+          "lat": 19.46914126547658,
+          "lon": -92.0689481396413,
+          "name": "MEX-23",
+          "topDestination": "ENLACE LITORAL"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f07403",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-23",
+          "lat": 19.46914126547658,
+          "lon": -92.0689481396413,
+          "name": "MEX-23",
+          "topDestination": "ENLACE LITORAL"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f00fc9",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-mex-36",
+          "lat": 19.386752792462374,
+          "lon": -92.27091062511217,
+          "name": null,
+          "topDestination": "VERACRUZ"
+        }
+      }
+    },
+    {
+      "start": "2026-03-02T02:59:03.000Z",
+      "end": "2026-03-04T23:59:02.000Z",
+      "id": "fb61b1e1b064c9737d244e37acb56956",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4178,
+        "lon": -92.0303
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "NAMMCO",
+          "ICCAT",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.03034666666667,
+        19.41797,
+        -92.03031,
+        19.417593333333333
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 77,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 68.99972222222222,
+        "totalDistanceKm": 1.7713433372039635,
+        "averageSpeedKnots": 0.013861633864247786,
+        "averageDistanceFromShoreKm": 77.00000000000003
+      }
+    },
+    {
+      "start": "2026-03-05T02:58:56.000Z",
+      "end": "2026-03-07T09:53:02.000Z",
+      "id": "b27111eb26128adb9f6c6174cfa9becb",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5172,
+        "lon": -92.1599
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.15734166666667,
+        19.519873333333333,
+        -92.16251666666666,
+        19.514575
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 79,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 54.90166666666667,
+        "totalDistanceKm": 1.3634075501990257,
+        "averageSpeedKnots": 0.013409086231981993,
+        "averageDistanceFromShoreKm": 79.00273179303095
+      }
+    },
+    {
+      "start": "2026-03-07T12:55:42.000Z",
+      "end": "2026-03-07T13:59:12.000Z",
+      "id": "48064c2db98f6b63ce23e8551400f25d",
+      "type": "loitering",
+      "position": {
+        "lat": 19.2239,
+        "lon": -92.3823
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ACAP",
+          "ICCAT",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.37660833333334,
+        19.236518333333333,
+        -92.38796,
+        19.211225
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 61,
+        "endDistanceFromShoreKm": 58,
+        "startDistanceFromPortKm": 6.679748,
+        "endDistanceFromPortKm": 7.6463529999999995
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-33",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "d442a3e1395508c8637cc5994205d3ac"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 1.0583333333333333,
+        "totalDistanceKm": 3.2339973338057004,
+        "averageSpeedKnots": 1.6499705789726535,
+        "averageDistanceFromShoreKm": 59.75155136750173
+      }
+    },
+    {
+      "start": "2026-03-07T14:53:41.000Z",
+      "end": "2026-03-07T18:51:22.000Z",
+      "id": "0b547c162e1b2de950979139714ad436",
+      "type": "loitering",
+      "position": {
+        "lat": 19.1094,
+        "lon": -92.4403
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "NAMMCO",
+          "IWC",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.43529666666667,
+        19.123706666666667,
+        -92.44522833333333,
+        19.095125
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 49,
+        "endDistanceFromShoreKm": 47,
+        "startDistanceFromPortKm": 5.369283,
+        "endDistanceFromPortKm": 5.365574
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-33",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "d442a3e1395508c8637cc5994205d3ac"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 3.961388888888889,
+        "totalDistanceKm": 4.033200196645422,
+        "averageSpeedKnots": 0.5497450381571816,
+        "averageDistanceFromShoreKm": 46.2949358541526
+      }
+    },
+    {
+      "start": "2026-03-07T22:44:14.000Z",
+      "end": "2026-03-13T00:00:57.000Z",
+      "id": "d442a3e1395508c8637cc5994205d3ac",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.3482,
+        "lon": -92.0483
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.04826103765694,
+        19.34815921704011,
+        -92.00488257001656,
+        19.344252109446725
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 70,
+        "endDistanceFromShoreKm": 68,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "65983cb6f9eff5835a123607bc5cdafb",
+        "confidence": "4",
+        "durationHrs": 121.2786111111111,
+        "startAnchorage": {
+          "anchorageId": "85f06e15",
+          "atDock": false,
+          "distanceFromShoreKm": "70",
+          "flag": "MEX",
+          "id": "mex-mex-33",
+          "lat": 19.34815921704011,
+          "lon": -92.04826103765694,
+          "name": null,
+          "topDestination": "CARMEN"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f06e15",
+          "atDock": false,
+          "distanceFromShoreKm": "70",
+          "flag": "MEX",
+          "id": "mex-mex-33",
+          "lat": 19.34815921704011,
+          "lon": -92.04826103765694,
+          "name": null,
+          "topDestination": "CARMEN"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f06feb",
+          "atDock": false,
+          "distanceFromShoreKm": "68",
+          "flag": "MEX",
+          "id": "mex-mex-3",
+          "lat": 19.344252109446725,
+          "lon": -92.00488257001656,
+          "name": null,
+          "topDestination": "AKAL D"
+        }
+      }
+    },
+    {
+      "start": "2026-03-07T23:59:21.000Z",
+      "end": "2026-03-12T22:54:59.000Z",
+      "id": "040c27e7bccd8701998bbd8c2948acff",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3639,
+        "lon": -92.0036
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "NAMMCO",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.00363,
+        19.364045,
+        -92.003565,
+        19.363791666666668
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 70,
+        "endDistanceFromShoreKm": 70,
+        "startDistanceFromPortKm": 1.0490730000000001,
+        "endDistanceFromPortKm": 1.0490730000000001
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 118.92722222222223,
+        "totalDistanceKm": 5.11295800237793,
+        "averageSpeedKnots": 0.023213999348346687,
+        "averageDistanceFromShoreKm": 69.81625932999906
+      }
+    },
+    {
+      "start": "2026-03-12T23:58:48.000Z",
+      "end": "2026-03-14T05:51:39.000Z",
+      "id": "31fde2545b30d358b739610dc4e7884d",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3137,
+        "lon": -91.9811
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "ICCAT",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.98202333333333,
+        19.315871666666666,
+        -91.98015166666667,
+        19.31155
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 66,
+        "endDistanceFromShoreKm": 65,
+        "startDistanceFromPortKm": 3.057705,
+        "endDistanceFromPortKm": 3.941064
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 29.88083333333333,
+        "totalDistanceKm": 1.4001514219997866,
+        "averageSpeedKnots": 0.025301211574096795,
+        "averageDistanceFromShoreKm": 65.56004840731877
+      }
+    },
+    {
+      "start": "2026-03-14T06:12:33.000Z",
+      "end": "2026-03-16T23:28:00.000Z",
+      "id": "72eaa53d7705599becda5538b5ccd35e",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.3443,
+        "lon": -92.0049
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "NAMMCO",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.00488257001656,
+        19.344252109446725,
+        -91.96697166473918,
+        19.38079311772861
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 68,
+        "endDistanceFromShoreKm": 73,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "a68e898f1e41a516458cd175ff2bf745",
+        "confidence": "4",
+        "durationHrs": 65.2575,
+        "startAnchorage": {
+          "anchorageId": "85f06feb",
+          "atDock": false,
+          "distanceFromShoreKm": "68",
+          "flag": "MEX",
+          "id": "mex-mex-3",
+          "lat": 19.344252109446725,
+          "lon": -92.00488257001656,
+          "name": null,
+          "topDestination": "AKAL D"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f06feb",
+          "atDock": false,
+          "distanceFromShoreKm": "68",
+          "flag": "MEX",
+          "id": "mex-mex-3",
+          "lat": 19.344252109446725,
+          "lon": -92.00488257001656,
+          "name": null,
+          "topDestination": "AKAL D"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f07ac7",
+          "atDock": false,
+          "distanceFromShoreKm": "73",
+          "flag": "MEX",
+          "id": "mex-mex-180",
+          "lat": 19.38079311772861,
+          "lon": -91.96697166473918,
+          "name": "MEX-180",
+          "topDestination": "AREA DE PLATA FORMA"
+        }
+      }
+    },
+    {
+      "start": "2026-03-14T06:55:09.000Z",
+      "end": "2026-03-16T04:59:35.000Z",
+      "id": "a79eaf535c06bc90f3082a656ac3d79c",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3568,
+        "lon": -92.0011
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ACAP",
+          "IWC",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.998475,
+        19.349686666666667,
+        -92.003825,
+        19.36383
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 69,
+        "endDistanceFromShoreKm": 70,
+        "startDistanceFromPortKm": 1.111949,
+        "endDistanceFromPortKm": 1.0490730000000001
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 46.07388888888889,
+        "totalDistanceKm": 2.467713629859348,
+        "averageSpeedKnots": 0.028920041167705902,
+        "averageDistanceFromShoreKm": 69.71839291610166
+      }
+    },
+    {
+      "start": "2026-03-16T06:58:51.000Z",
+      "end": "2026-03-16T21:54:49.000Z",
+      "id": "b93d0ff8e5126609ecb0f3b5ffe5e5bf",
+      "type": "loitering",
+      "position": {
+        "lat": 19.408,
+        "lon": -92.0833
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "NAMMCO",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.0817,
+        19.40729333333333,
+        -92.08494833333333,
+        19.408663333333333
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 77,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 14.932777777777778,
+        "totalDistanceKm": 1.0377950342677904,
+        "averageSpeedKnots": 0.03752580381791831,
+        "averageDistanceFromShoreKm": 77.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-17T03:38:18.000Z",
+      "end": "2026-03-18T10:58:11.000Z",
+      "id": "94058ac7d17cb930a2e562651deb5b04",
+      "type": "loitering",
+      "position": {
+        "lat": 19.2579,
+        "lon": -91.5217
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.500095,
+        19.254158333333333,
+        -91.54333333333334,
+        19.261666666666667
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 38,
+        "endDistanceFromShoreKm": 40,
+        "startDistanceFromPortKm": 40.928254,
+        "endDistanceFromPortKm": 39.814234
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-33",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "a1b988c04ee02560036eee4f6ff27884"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 31.33138888888889,
+        "totalDistanceKm": 15.749527534457634,
+        "averageSpeedKnots": 0.271423158852031,
+        "averageDistanceFromShoreKm": 38.60471942105434
+      }
+    },
+    {
+      "start": "2026-03-18T14:52:59.000Z",
+      "end": "2026-03-19T02:51:21.000Z",
+      "id": "2793eaa68e606141e34020410f876c11",
+      "type": "loitering",
+      "position": {
+        "lat": 19.116,
+        "lon": -91.8725
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "ICCAT",
+          "IWC",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -91.86984833333334,
+        19.116185,
+        -91.87510166666667,
+        19.115805
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 45,
+        "endDistanceFromShoreKm": 45,
+        "startDistanceFromPortKm": 25.642691,
+        "endDistanceFromPortKm": 24.700484
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": "mex-mex-33",
+          "flag": "MEX",
+          "name": null,
+          "portVisitEventId": "a1b988c04ee02560036eee4f6ff27884"
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 11.972777777777779,
+        "totalDistanceKm": 2.0863351331062874,
+        "averageSpeedKnots": 0.09409101800088145,
+        "averageDistanceFromShoreKm": 44.897840408032934
+      }
+    },
+    {
+      "start": "2026-03-19T06:12:11.000Z",
+      "end": "2026-03-21T11:03:12.000Z",
+      "id": "a1b988c04ee02560036eee4f6ff27884",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.3482,
+        "lon": -92.0483
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "NAMMCO",
+          "ACAP",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.04826103765694,
+        19.34815921704011,
+        -92.11276788335415,
+        19.44229855016443
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 70,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "25902dd936c5b51f2f8d437a9e9e9c60",
+        "confidence": "4",
+        "durationHrs": 52.85027777777778,
+        "startAnchorage": {
+          "anchorageId": "85f06e15",
+          "atDock": false,
+          "distanceFromShoreKm": "70",
+          "flag": "MEX",
+          "id": "mex-mex-33",
+          "lat": 19.34815921704011,
+          "lon": -92.04826103765694,
+          "name": null,
+          "topDestination": "CARMEN"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f06e15",
+          "atDock": false,
+          "distanceFromShoreKm": "70",
+          "flag": "MEX",
+          "id": "mex-mex-33",
+          "lat": 19.34815921704011,
+          "lon": -92.04826103765694,
+          "name": null,
+          "topDestination": "CARMEN"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f07373",
+          "atDock": false,
+          "distanceFromShoreKm": "80",
+          "flag": "MEX",
+          "id": "mex-mex-19",
+          "lat": 19.44229855016443,
+          "lon": -92.11276788335415,
+          "name": "MEX-19",
+          "topDestination": "CD C ARMEN"
+        }
+      }
+    },
+    {
+      "start": "2026-03-19T08:57:02.000Z",
+      "end": "2026-03-19T12:53:30.000Z",
+      "id": "5e70b5eb71c73587dfaca248f6b0ddd3",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5138,
+        "lon": -92.1523
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.15243833333334,
+        19.510751666666668,
+        -92.15211333333333,
+        19.516845
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 80,
+        "endDistanceFromShoreKm": 79,
+        "startDistanceFromPortKm": 1.048105,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 3.9411111111111112,
+        "totalDistanceKm": 0.7487959175963954,
+        "averageSpeedKnots": 0.10258971105030745,
+        "averageDistanceFromShoreKm": 79.88934147997286
+      }
+    },
+    {
+      "start": "2026-03-19T14:52:51.000Z",
+      "end": "2026-03-19T19:55:21.000Z",
+      "id": "3c53fdef1d4a0ed2f24683516495377f",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5672,
+        "lon": -92.2291
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "IWC",
+          "ICCAT",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23048166666666,
+        19.566111666666668,
+        -92.22762,
+        19.56819
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 1.047715,
+        "endDistanceFromPortKm": 1.047715
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 5.041666666666667,
+        "totalDistanceKm": 1.670195474466293,
+        "averageSpeedKnots": 0.17887604817303174,
+        "averageDistanceFromShoreKm": 76.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-19T22:57:31.000Z",
+      "end": "2026-03-20T08:51:20.000Z",
+      "id": "e4cfb6fe147aad4c16aa09f85eb6bec8",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4165,
+        "lon": -92.0786
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "IWC",
+          "ACAP",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.08147,
+        19.408803333333335,
+        -92.07578333333333,
+        19.42413833333333
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 9.896944444444445,
+        "totalDistanceKm": 3.020916222921576,
+        "averageSpeedKnots": 0.16481493620507393,
+        "averageDistanceFromShoreKm": 77.32599349021187
+      }
+    },
+    {
+      "start": "2026-03-20T11:09:50.000Z",
+      "end": "2026-03-20T21:22:13.000Z",
+      "id": "f03a16f71610500982716748bb8cc14b",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5468,
+        "lon": -92.2267
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "IWC",
+          "ICCAT",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.220015,
+        19.528511666666667,
+        -92.23333333333333,
+        19.565
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 80,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 3.056023,
+        "endDistanceFromPortKm": 1.047715
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 10.206388888888888,
+        "totalDistanceKm": 5.771633418341704,
+        "averageSpeedKnots": 0.30534136659036176,
+        "averageDistanceFromShoreKm": 76.06732312961574
+      }
+    },
+    {
+      "start": "2026-03-20T23:56:32.000Z",
+      "end": "2026-03-21T09:59:42.000Z",
+      "id": "7dde7d6745f2473f6606d15c7f1f79fc",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4235,
+        "lon": -92.075
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "IWC",
+          "NAMMCO",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.07403833333333,
+        19.423265,
+        -92.07602333333334,
+        19.423733333333335
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 78,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 10.052777777777777,
+        "totalDistanceKm": 1.1075257695877805,
+        "averageSpeedKnots": 0.059487644859056346,
+        "averageDistanceFromShoreKm": 78.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-21T11:14:09.000Z",
+      "end": "2026-03-23T11:00:37.000Z",
+      "id": "21f13811ddc935d5c2b1c0b210a737c8",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4951,
+        "lon": -92.1737
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "IWC",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.17368808995342,
+        19.49508497953261,
+        -92.11276788335415,
+        19.44229855016443
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 81,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "2ed31cb30da13e6f82c0b3bd4838b68e",
+        "confidence": "4",
+        "durationHrs": 47.77444444444444,
+        "startAnchorage": {
+          "anchorageId": "85f00b11",
+          "atDock": false,
+          "distanceFromShoreKm": "81",
+          "flag": "MEX",
+          "id": "mex-mex-56",
+          "lat": 19.49508497953261,
+          "lon": -92.17368808995342,
+          "name": "MEX-56",
+          "topDestination": "KU I"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f00b11",
+          "atDock": false,
+          "distanceFromShoreKm": "81",
+          "flag": "MEX",
+          "id": "mex-mex-56",
+          "lat": 19.49508497953261,
+          "lon": -92.17368808995342,
+          "name": "MEX-56",
+          "topDestination": "KU I"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f07373",
+          "atDock": false,
+          "distanceFromShoreKm": "80",
+          "flag": "MEX",
+          "id": "mex-mex-19",
+          "lat": 19.44229855016443,
+          "lon": -92.11276788335415,
+          "name": "MEX-19",
+          "topDestination": "CD C ARMEN"
+        }
+      }
+    },
+    {
+      "start": "2026-03-21T12:52:32.000Z",
+      "end": "2026-03-21T14:51:32.000Z",
+      "id": "f732a81a1861cd613f9c68dedd690b1e",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5666,
+        "lon": -92.2336
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "ICCAT",
+          "IWC",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23463833333334,
+        19.565968333333334,
+        -92.232495,
+        19.5672
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 1.047715,
+        "endDistanceFromPortKm": 1.047715
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 1.9833333333333334,
+        "totalDistanceKm": 0.6122246342306857,
+        "averageSpeedKnots": 0.16667639823330282,
+        "averageDistanceFromShoreKm": 76.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-21T17:49:52.000Z",
+      "end": "2026-03-22T09:54:32.000Z",
+      "id": "7ae00f7744ff18a96d19f11cdbcc04f1",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4254,
+        "lon": -92.0744
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "IWC",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.072645,
+        19.427173333333332,
+        -92.07608,
+        19.423704999999998
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 79,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 16.077777777777776,
+        "totalDistanceKm": 3.9951135944911846,
+        "averageSpeedKnots": 0.1341720725177311,
+        "averageDistanceFromShoreKm": 78.15437620668943
+      }
+    },
+    {
+      "start": "2026-03-22T12:55:48.000Z",
+      "end": "2026-03-22T13:59:11.000Z",
+      "id": "0cb64334642cb6f09e8eb87491bea8d3",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5655,
+        "lon": -92.2327
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ACAP",
+          "NAMMCO",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23352333333334,
+        19.565461666666668,
+        -92.231845,
+        19.565601666666666
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 1.047715,
+        "endDistanceFromPortKm": 1.047715
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 1.0563888888888888,
+        "totalDistanceKm": 0.1709691412664213,
+        "averageSpeedKnots": 0.08738822603945116,
+        "averageDistanceFromShoreKm": 76.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-22T16:58:37.000Z",
+      "end": "2026-03-23T09:56:07.000Z",
+      "id": "5ecb3df7ecae421c54d232a59fcb5f3b",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4235,
+        "lon": -92.0761
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "IWC",
+          "NAMMCO",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.07565666666666,
+        19.423428333333334,
+        -92.07658333333333,
+        19.423476666666666
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 78,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 16.958333333333336,
+        "totalDistanceKm": 2.025057176545222,
+        "averageSpeedKnots": 0.06447823488132268,
+        "averageDistanceFromShoreKm": 78.05337586358434
+      }
+    },
+    {
+      "start": "2026-03-23T11:12:54.000Z",
+      "end": "2026-03-24T10:46:26.000Z",
+      "id": "38dc904c3f1173f88db2b10cef5ddf37",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4951,
+        "lon": -92.1737
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "IWC",
+          "ICCAT",
+          "NAMMCO",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.17368808995342,
+        19.49508497953261,
+        -92.11276788335415,
+        19.44229855016443
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 81,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "f1fa92d7d90c451c7d29037ec84ca296",
+        "confidence": "4",
+        "durationHrs": 23.558888888888887,
+        "startAnchorage": {
+          "anchorageId": "85f00b11",
+          "atDock": false,
+          "distanceFromShoreKm": "81",
+          "flag": "MEX",
+          "id": "mex-mex-56",
+          "lat": 19.49508497953261,
+          "lon": -92.17368808995342,
+          "name": "MEX-56",
+          "topDestination": "KU I"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f00b11",
+          "atDock": false,
+          "distanceFromShoreKm": "81",
+          "flag": "MEX",
+          "id": "mex-mex-56",
+          "lat": 19.49508497953261,
+          "lon": -92.17368808995342,
+          "name": "MEX-56",
+          "topDestination": "KU I"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f07373",
+          "atDock": false,
+          "distanceFromShoreKm": "80",
+          "flag": "MEX",
+          "id": "mex-mex-19",
+          "lat": 19.44229855016443,
+          "lon": -92.11276788335415,
+          "name": "MEX-19",
+          "topDestination": "CD C ARMEN"
+        }
+      }
+    },
+    {
+      "start": "2026-03-23T12:57:09.000Z",
+      "end": "2026-03-23T14:57:27.000Z",
+      "id": "41bf18de4cdbd7fe24748ff703f78ce5",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5655,
+        "lon": -92.2341
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23349833333333,
+        19.565325,
+        -92.23475166666667,
+        19.56577
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 1.047715,
+        "endDistanceFromPortKm": 1.047715
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 2.005,
+        "totalDistanceKm": 0.4523232797072344,
+        "averageSpeedKnots": 0.12181298366051244,
+        "averageDistanceFromShoreKm": 76.07182687201275
+      }
+    },
+    {
+      "start": "2026-03-23T17:54:16.000Z",
+      "end": "2026-03-24T09:59:14.000Z",
+      "id": "0c286f32c2130078ea15009322b4a06d",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4224,
+        "lon": -92.0759
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "IWC",
+          "NAMMCO",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.07095833333334,
+        19.422018333333334,
+        -92.08087166666667,
+        19.42271
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 78,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 16.08277777777778,
+        "totalDistanceKm": 3.0431767609932923,
+        "averageSpeedKnots": 0.10217040979619416,
+        "averageDistanceFromShoreKm": 78.10145325338883
+      }
+    },
+    {
+      "start": "2026-03-24T11:04:36.000Z",
+      "end": "2026-03-25T10:41:52.000Z",
+      "id": "2894bab480fb80d722783294ae77b8c8",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.495,
+        "lon": -92.1751
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.17508919755318,
+        19.495003212628646,
+        -92.11276788335415,
+        19.44229855016443
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 82,
+        "endDistanceFromShoreKm": 80,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "a9a3327015090b60bfb12a4888dff0da",
+        "confidence": "4",
+        "durationHrs": 23.621111111111112,
+        "startAnchorage": {
+          "anchorageId": "85f00b0f",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-56",
+          "lat": 19.495003212628646,
+          "lon": -92.17508919755318,
+          "name": "MEX-56",
+          "topDestination": "AREA DE PLATAFORMAS"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f00b0f",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-56",
+          "lat": 19.495003212628646,
+          "lon": -92.17508919755318,
+          "name": "MEX-56",
+          "topDestination": "AREA DE PLATAFORMAS"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f07373",
+          "atDock": false,
+          "distanceFromShoreKm": "80",
+          "flag": "MEX",
+          "id": "mex-mex-19",
+          "lat": 19.44229855016443,
+          "lon": -92.11276788335415,
+          "name": "MEX-19",
+          "topDestination": "CD C ARMEN"
+        }
+      }
+    },
+    {
+      "start": "2026-03-24T11:43:54.000Z",
+      "end": "2026-03-24T15:53:02.000Z",
+      "id": "896045a8b349a080b48606fd8fc6cdc3",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5487,
+        "lon": -92.22
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "NAMMCO",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.22213666666667,
+        19.530093333333333,
+        -92.21793666666666,
+        19.567276666666668
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 80,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 3.056023,
+        "endDistanceFromPortKm": 1.111949
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 4.152222222222222,
+        "totalDistanceKm": 7.120923356722959,
+        "averageSpeedKnots": 0.9260080042853618,
+        "averageDistanceFromShoreKm": 76.1532369827757
+      }
+    },
+    {
+      "start": "2026-03-24T17:54:12.000Z",
+      "end": "2026-03-25T09:56:12.000Z",
+      "id": "1b6c5e930369bdf02fa1fb38b19b5a57",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4268,
+        "lon": -92.0766
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ACAP",
+          "IWC",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.06998833333333,
+        19.42892,
+        -92.08328333333333,
+        19.42458166666667
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 79,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 16.033333333333335,
+        "totalDistanceKm": 4.295420826525631,
+        "averageSpeedKnots": 0.1446574864233631,
+        "averageDistanceFromShoreKm": 78.1093250164536
+      }
+    },
+    {
+      "start": "2026-03-25T10:50:49.000Z",
+      "end": "2026-03-27T10:59:53.000Z",
+      "id": "ac2205d4583e50b63577b9e373ef24e3",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4505,
+        "lon": -92.1934
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "IWC",
+          "ICCAT",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.19343429078445,
+        19.450487881230888,
+        -92.08218130177723,
+        19.406618085051154
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 82,
+        "endDistanceFromShoreKm": 77,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "d07327b7d85406d39d57914ca54c9b05",
+        "confidence": "4",
+        "durationHrs": 48.15111111111111,
+        "startAnchorage": {
+          "anchorageId": "85f00c7b",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-24",
+          "lat": 19.450487881230888,
+          "lon": -92.19343429078445,
+          "name": null,
+          "topDestination": "AREA PLATAFORMAS"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f00c7b",
+          "atDock": false,
+          "distanceFromShoreKm": "82",
+          "flag": "MEX",
+          "id": "mex-mex-24",
+          "lat": 19.450487881230888,
+          "lon": -92.19343429078445,
+          "name": null,
+          "topDestination": "AREA PLATAFORMAS"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f07237",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-akalfield",
+          "lat": 19.406618085051154,
+          "lon": -92.08218130177723,
+          "name": null,
+          "topDestination": "CD DEL CARMEN"
+        }
+      }
+    },
+    {
+      "start": "2026-03-25T11:54:52.000Z",
+      "end": "2026-03-25T14:57:12.000Z",
+      "id": "1bf972260642a012f07ebb285c9a236c",
+      "type": "loitering",
+      "position": {
+        "lat": 19.5498,
+        "lon": -92.232
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "NAMMCO",
+          "IWC",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.23247333333333,
+        19.53752666666667,
+        -92.23152333333333,
+        19.562036666666668
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 79,
+        "endDistanceFromShoreKm": 77,
+        "startDistanceFromPortKm": 2.223899,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 3.0388888888888888,
+        "totalDistanceKm": 2.976535959292231,
+        "averageSpeedKnots": 0.5288777907698003,
+        "averageDistanceFromShoreKm": 77.19113935068326
+      }
+    },
+    {
+      "start": "2026-03-25T17:56:04.000Z",
+      "end": "2026-03-26T06:59:23.000Z",
+      "id": "d867dd79f867cd8d64b326706d13d88d",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3987,
+        "lon": -92.0783
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "IWC",
+          "ACAP"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.08002166666667,
+        19.398253333333333,
+        -92.07664333333334,
+        19.399066666666666
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 76,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 13.055277777777778,
+        "totalDistanceKm": 1.4296994248071175,
+        "averageSpeedKnots": 0.05913132944864392,
+        "averageDistanceFromShoreKm": 76
+      }
+    },
+    {
+      "start": "2026-03-26T07:57:03.000Z",
+      "end": "2026-03-27T03:58:02.000Z",
+      "id": "5dbc26638691262b47e6ae937bbf054a",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3878,
+        "lon": -92.0294
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "IWC",
+          "ICCAT",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.04001333333333,
+        19.387961666666666,
+        -92.01881666666667,
+        19.38765666666667
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 74,
+        "endDistanceFromShoreKm": 74,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 1.111949
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 20.01638888888889,
+        "totalDistanceKm": 4.717784596010603,
+        "averageSpeedKnots": 0.12726570731589854,
+        "averageDistanceFromShoreKm": 73.92220292366146
+      }
+    },
+    {
+      "start": "2026-03-27T05:59:33.000Z",
+      "end": "2026-03-27T09:57:43.000Z",
+      "id": "096f47e544a07030b89801db2179827d",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4198,
+        "lon": -92.0791
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "ACAP",
+          "NAMMCO",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.08716666666666,
+        19.418703333333333,
+        -92.07099666666667,
+        19.420961666666667
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 78,
+        "endDistanceFromShoreKm": 78,
+        "startDistanceFromPortKm": 1.048687,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 3.9694444444444446,
+        "totalDistanceKm": 2.1635630483496864,
+        "averageSpeedKnots": 0.29430581634587427,
+        "averageDistanceFromShoreKm": 78.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-27T10:59:53.000Z",
+      "end": "2026-03-27T13:53:22.000Z",
+      "id": "902aaafc56287c679031bf32338e8cad",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3924,
+        "lon": -92.1118
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "IWC",
+          "NAMMCO",
+          "ICCAT"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.118105,
+        19.387815,
+        -92.10546666666667,
+        19.39704
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 75,
+        "endDistanceFromShoreKm": 76,
+        "startDistanceFromPortKm": 3.8530320000000002,
+        "endDistanceFromPortKm": 3.146447
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 2.891388888888889,
+        "totalDistanceKm": 2.008556818290372,
+        "averageSpeedKnots": 0.3750909894310466,
+        "averageDistanceFromShoreKm": 75.05055248618785
+      }
+    },
+    {
+      "start": "2026-03-27T13:53:22.000Z",
+      "end": "2026-03-29T23:15:25.000Z",
+      "id": "58d46c3e9db7d26109d00b4738470fcd",
+      "type": "port_visit",
+      "position": {
+        "lat": 19.4066,
+        "lon": -92.0822
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "NAMMCO",
+          "ICCAT",
+          "ACAP",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.08218130177723,
+        19.406618085051154,
+        -92.03857452760948,
+        19.3991246129968
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 77,
+        "endDistanceFromShoreKm": 75,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": null
+      },
+      "port_visit": {
+        "visitId": "e386e4416cc104a1acf9fc1a7d53effe",
+        "confidence": "3",
+        "durationHrs": 57.3675,
+        "startAnchorage": {
+          "anchorageId": "85f07237",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-akalfield",
+          "lat": 19.406618085051154,
+          "lon": -92.08218130177723,
+          "name": null,
+          "topDestination": "CD DEL CARMEN"
+        },
+        "intermediateAnchorage": {
+          "anchorageId": "85f07237",
+          "atDock": false,
+          "distanceFromShoreKm": "77",
+          "flag": "MEX",
+          "id": "mex-akalfield",
+          "lat": 19.406618085051154,
+          "lon": -92.08218130177723,
+          "name": null,
+          "topDestination": "CD DEL CARMEN"
+        },
+        "endAnchorage": {
+          "anchorageId": "85f071bb",
+          "atDock": false,
+          "distanceFromShoreKm": "75",
+          "flag": "MEX",
+          "id": "mex-akalfield",
+          "lat": 19.3991246129968,
+          "lon": -92.03857452760948,
+          "name": null,
+          "topDestination": "AKAL C"
+        }
+      }
+    },
+    {
+      "start": "2026-03-27T15:53:51.000Z",
+      "end": "2026-03-28T01:53:14.000Z",
+      "id": "8d0042253001d88e46e74669a5bab478",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3845,
+        "lon": -92.0257
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "IWC",
+          "ICCAT",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.02469666666667,
+        19.391121666666667,
+        -92.026655,
+        19.377918333333334
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 74,
+        "endDistanceFromShoreKm": 73,
+        "startDistanceFromPortKm": 1.111949,
+        "endDistanceFromPortKm": 1.111949
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 9.989722222222222,
+        "totalDistanceKm": 2.2244545939707385,
+        "averageSpeedKnots": 0.12023451356044328,
+        "averageDistanceFromShoreKm": 73.00271587230125
+      }
+    },
+    {
+      "start": "2026-03-28T04:57:12.000Z",
+      "end": "2026-03-28T15:57:39.000Z",
+      "id": "8fad65c401ffe7ab4dbb01bd9196a4e7",
+      "type": "loitering",
+      "position": {
+        "lat": 19.3798,
+        "lon": -92.0326
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ICCAT",
+          "IWC",
+          "ACAP",
+          "NAMMCO"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.036885,
+        19.379136666666668,
+        -92.02829166666666,
+        19.380413333333333
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 73,
+        "endDistanceFromShoreKm": 73,
+        "startDistanceFromPortKm": 1.048945,
+        "endDistanceFromPortKm": 1.111949
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 11.0075,
+        "totalDistanceKm": 1.869820289930837,
+        "averageSpeedKnots": 0.0917212979139413,
+        "averageDistanceFromShoreKm": 73.00000000000001
+      }
+    },
+    {
+      "start": "2026-03-28T16:59:32.000Z",
+      "end": "2026-03-29T23:59:18.000Z",
+      "id": "8ece2e438427133c350010353139a712",
+      "type": "loitering",
+      "position": {
+        "lat": 19.4002,
+        "lon": -92.0438
+      },
+      "regions": {
+        "mpa": [],
+        "eez": [
+          "8429"
+        ],
+        "rfmo": [
+          "ACAP",
+          "NAMMCO",
+          "ICCAT",
+          "IWC"
+        ],
+        "fao": [
+          "31"
+        ],
+        "majorFao": [
+          "31"
+        ],
+        "eez12Nm": [],
+        "highSeas": [],
+        "mpaNoTakePartial": [],
+        "mpaNoTake": []
+      },
+      "boundingBox": [
+        -92.04292666666667,
+        19.400101666666668,
+        -92.04466833333333,
+        19.40024
+      ],
+      "distances": {
+        "startDistanceFromShoreKm": 75,
+        "endDistanceFromShoreKm": 75,
+        "startDistanceFromPortKm": 0,
+        "endDistanceFromPortKm": 0
+      },
+      "vessel": {
+        "id": "fb2bd204f-f62b-42db-45f4-dd335f3c783c",
+        "name": "ARBOL GRANDE",
+        "ssvid": "345070403",
+        "flag": "MEX",
+        "type": "other",
+        "nextPort": {
+          "id": null,
+          "flag": null,
+          "name": null,
+          "portVisitEventId": null
+        }
+      },
+      "loitering": {
+        "totalTimeHours": 30.99611111111111,
+        "totalDistanceKm": 4.486223537880641,
+        "averageSpeedKnots": 0.07815067227041644,
+        "averageDistanceFromShoreKm": 75.00000000000001
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oleoducto Akal-C — Dos Bocas (Old AK C)",
+        "id": "old-ak-c",
+        "operator": "PEMEX Exploración y Producción",
+        "diameter_in": 30,
+        "length_km": 161,
+        "substance": "Aceite crudo Maya 22° API",
+        "status": "INCIDENTE — derrame confirmado febrero 2026",
+        "significance": "ALTA — ducto del incidente investigado"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-91.75, 19.65],
+          [-91.90, 19.53],
+          [-92.044, 19.396],
+          [-92.20, 19.30],
+          [-92.50, 19.14],
+          [-92.85, 18.92],
+          [-93.10, 18.74],
+          [-93.40, 18.63],
+          [-93.78, 18.43]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sistema Abkatún-Pol-Chuc",
+        "id": "abkatun-pol-chuc",
+        "operator": "PEMEX Exploración y Producción",
+        "substance": "Aceite crudo / Gas",
+        "status": "Activo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-91.65, 19.68],
+          [-91.85, 19.54],
+          [-91.99, 19.37],
+          [-92.044, 19.396]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oleoducto Ku-Maloob-Zaap",
+        "id": "ku-maloob-zaap",
+        "operator": "PEMEX Exploración y Producción",
+        "substance": "Aceite crudo Ku-Maloob-Zaap",
+        "status": "Activo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-91.45, 19.90],
+          [-91.57, 19.81],
+          [-91.75, 19.65],
+          [-91.90, 19.53]
+        ]
+      }
+    }
+  ]
+}

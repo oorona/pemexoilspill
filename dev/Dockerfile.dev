@@ -1,0 +1,6 @@
+# Dev image — hot-reload Vite frontend + live API server
+FROM node:20-alpine AS dev
+WORKDIR /app
+RUN apk add --no-cache curl
+EXPOSE 5173 3001
+CMD ["sh", "-c", "npm install && cd server && npm install && cd .. && npm run dev:all"]
