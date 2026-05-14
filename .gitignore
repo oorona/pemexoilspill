@@ -8,3 +8,11 @@ secrets/*.pem
 !secrets/README.md
 .DS_Store
 *.log
+
+# --- deploy convention (tools/fixdeploy.sh) ---
+.env.prod
+.env.test
+secrets/
+secrets.prod/
+secrets.test/
+# --- /deploy convention ---

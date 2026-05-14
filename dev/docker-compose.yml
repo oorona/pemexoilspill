@@ -1,3 +1,5 @@
+name: pemex-oilspill
+
 # ── SECRETS ──────────────────────────────────────────────────────────────────
 # Create files in ./secrets/ before running (see secrets/README.md)
 secrets:
@@ -13,6 +15,7 @@ services:
 
   # ── API proxy (reads Docker secrets, proxies external APIs) ──────────────
   api:
+    container_name: pemex-oilspill-api
     build:
       context: ..
       dockerfile: dev/Dockerfile.dev
@@ -38,6 +41,7 @@ services:
 
   # ── Vite dev server (hot-reload frontend) ───────────────────────────────
   web:
+    container_name: pemex-oilspill-web
     build:
       context: ..
       dockerfile: dev/Dockerfile.dev
