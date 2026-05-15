@@ -4,11 +4,11 @@ name: pemex-oilspill
 # Create files in ./secrets/ before running (see secrets/README.md)
 secrets:
   gfw_api_key:
-    file: ../secrets/gfw_api_key.txt
+    file: ./secrets/gfw_api_key.txt
   copernicus_client_id:
-    file: ../secrets/copernicus_client_id.txt
+    file: ./secrets/copernicus_client_id.txt
   copernicus_client_secret:
-    file: ../secrets/copernicus_client_secret.txt
+    file: ./secrets/copernicus_client_secret.txt
 
 # ── SERVICES ─────────────────────────────────────────────────────────────────
 services:
@@ -17,12 +17,12 @@ services:
   api:
     container_name: pemex-oilspill-api
     build:
-      context: ..
+      context: .
       dockerfile: dev/Dockerfile.dev
     command: sh -c "cd /app/server && npm install && node index.cjs"
     working_dir: /app
     volumes:
-      - ../server:/app/server
+      - ./server:/app/server
     ports:
       - "3001:3001"
     environment:
@@ -43,12 +43,12 @@ services:
   web:
     container_name: pemex-oilspill-web
     build:
-      context: ..
+      context: .
       dockerfile: dev/Dockerfile.dev
     command: sh -c "npm install && npm run dev"
     working_dir: /app
     volumes:
-      - ..:/app
+      - .:/app
       - /app/node_modules
     ports:
       - "5173:5173"
