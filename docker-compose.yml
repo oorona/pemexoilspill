@@ -54,6 +54,26 @@ services:
       - "5173:5173"
     environment:
       - NODE_ENV=development
+      # Vite 6 enforces server.allowedHosts — pass the deploy host through so
+      # Traefik-proxied requests aren't rejected.
+      - VITE_ALLOWED_HOST=${PEMEX_HOST:-pemexoilspill.home.iktdts.com}
     depends_on:
       api:
         condition: service_healthy
+    networks:
+      - default
+      - intranet
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.pemex-oilspill.rule=Host(`${PEMEX_HOST:-pemexoilspill.home.iktdts.com}`)"
+      - "traefik.http.routers.pemex-oilspill.entrypoints=websecure"
+      - "traefik.http.routers.pemex-oilspill.tls=true"
+      - "traefik.http.routers.pemex-oilspill.tls.certresolver=${CERT_RESOLVER:-cloudflare}"
+      - "traefik.http.services.pemex-oilspill.loadbalancer.server.port=5173"
+      - "traefik.docker.network=intranet"
+
+networks:
+  default:
+  intranet:
+    external: true
+    name: intranet

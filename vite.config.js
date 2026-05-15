@@ -6,6 +6,9 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: parseInt(process.env.VITE_DEV_PORT || '5173', 10),
+    allowedHosts: process.env.VITE_ALLOWED_HOST
+      ? [process.env.VITE_ALLOWED_HOST]
+      : undefined,
     proxy: {
       '/api': {
         target: process.env.VITE_API_TARGET || 'http://api:3001',
